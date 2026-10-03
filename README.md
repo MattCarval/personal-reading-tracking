@@ -1,0 +1,1074 @@
+# 1000 Livros — Personal Reading Tracker
+
+> 🇧🇷 Meu roteiro pessoal de leitura: **1000 livros** em 11 fases, em ordem sugerida, para uma formação intelectual completa.
+> 🇬🇧 My personal reading roadmap: 1000 books in 11 phases, in a suggested order, for a well-rounded intellectual education.
+
+Este repositório é só o acompanhamento: a lista abaixo é o próprio controle de leitura. Cada livro é uma caixa de seleção; ao terminar um, marco `[x]`.
+
+## Como acompanhar
+
+1. Abra o `README.md` no GitHub e clique no lápis (**Edit**).
+2. Troque `- [ ]` por `- [x]` no livro concluído.
+3. Faça o commit. O histórico do repositório vira o diário da leitura (um commit por livro dá uma linha do tempo).
+
+Dica: ao terminar cada livro, resuma-o em uma página (arquivo `notas/NNNN-titulo.md`) e linke aqui.
+
+## Visão geral por fase
+
+| # | Fase | Livros |
+|---|---|---|
+| 1 | [Aprender a aprender, pensar e escrever](#fase-1--aprender-a-aprender-pensar-e-escrever) | 30 |
+| 2 | [Matemática e lógica](#fase-2--matemática-e-lógica) | 55 |
+| 3 | [Ciências naturais](#fase-3--ciências-naturais) | 113 |
+| 4 | [História](#fase-4--história) | 158 |
+| 5 | [Filosofia](#fase-5--filosofia) | 167 |
+| 6 | [Literatura universal](#fase-6--literatura-universal) | 165 |
+| 7 | [Ciências humanas: psicologia, sociologia, economia, política e direito](#fase-7--ciências-humanas-psicologia-sociologia-economia-política-e-direito) | 156 |
+| 8 | [Religião e teologia](#fase-8--religião-e-teologia) | 60 |
+| 9 | [Computação e tecnologia](#fase-9--computação-e-tecnologia) | 42 |
+| 10 | [Artes, música e arquitetura](#fase-10--artes-música-e-arquitetura) | 40 |
+| 11 | [Síntese e sabedoria final](#fase-11--síntese-e-sabedoria-final) | 14 |
+| | **Total** | **1000** |
+
+---
+
+# Lista completa
+
+Lista em ordem de leitura sugerida. Marque `[x]` ao concluir. Fontes reais e verificáveis; obras históricas marcadas como "ler criticamente" têm valor histórico, não de verdade científica.
+
+**Como usar:** leia na ordem dentro de cada fase; após a Fase 2, é aceitável intercalar fases (ex.: 1 livro de ciência, 1 de história, 1 de filosofia, 1 de literatura). Faça anotações e resuma cada livro em uma página.
+
+
+## Fase 1 — Aprender a aprender, pensar e escrever
+
+- [ ] **0001.** *How to Read a Book* — Mortimer J. Adler & Charles Van Doren. Ensina o método de leitura analítica que será usado nos 999 livros seguintes.
+- [ ] **0002.** *Make It Stick* — Peter C. Brown, Henry Roediger & Mark McDaniel. Ciência da memória e aprendizado baseada em evidências.
+- [ ] **0003.** *A Mind for Numbers* — Barbara Oakley. Técnicas práticas para estudar temas difíceis.
+- [ ] **0004.** *Deep Work* — Cal Newport. Foco sustentado como pré-requisito para estudo sério.
+- [ ] **0005.** *The Elements of Style* — William Strunk Jr. & E. B. White. Clareza e economia na escrita.
+- [ ] **0006.** *On Writing Well* — William Zinsser. Escrita de não-ficção clara.
+- [ ] **0007.** *Thinking, Fast and Slow* — Daniel Kahneman. Mapa dos vieses cognitivos humanos.
+- [ ] **0008.** *The Demon-Haunted World* — Carl Sagan. Vacina contra pseudociência; kit de detecção de bobagens.
+- [ ] **0009.** *The Scout Mindset* — Julia Galef. Buscar a verdade em vez de defender posições.
+- [ ] **0010.** *Asking the Right Questions* — M. Neil Browne & Stuart M. Keeley. Manual de pensamento crítico.
+- [ ] **0011.** *A Rulebook for Arguments* — Anthony Weston. Construção de argumentos válidos em poucas páginas.
+- [ ] **0012.** *How to Lie with Statistics* — Darrell Huff. Defesa básica contra números enganosos.
+- [ ] **0013.** *Calling Bullshit* — Carl T. Bergstrom & Jevin D. West. Leitura crítica de dados na era da informação.
+- [ ] **0014.** *The Art of Thinking Clearly* — Rolf Dobelli. Catálogo acessível de erros de raciocínio.
+- [ ] **0015.** *Superforecasting* — Philip E. Tetlock & Dan Gardner. Como pensar probabilisticamente sobre o futuro.
+- [ ] **0016.** *Factfulness* — Hans Rosling. Visão de mundo baseada em dados, não em impressões.
+- [ ] **0017.** *The Righteous Mind* — Jonathan Haidt. Por que pessoas boas discordam sobre moral e política.
+- [ ] **0018.** *Mistakes Were Made (But Not by Me)* — Carol Tavris & Elliot Aronson. Dissonância cognitiva e autojustificação.
+- [ ] **0019.** *Influence* — Robert B. Cialdini. Mecanismos de persuasão para reconhecê-los.
+- [ ] **0020.** *The Structure of Scientific Revolutions* — Thomas S. Kuhn. Como a ciência realmente muda.
+- [ ] **0021.** *Philosophy of Science: A Very Short Introduction* — Samir Okasha. O que distingue ciência de não-ciência.
+- [ ] **0022.** *Bad Science* — Ben Goldacre. Como a evidência é distorcida na mídia e na medicina.
+- [ ] **0023.** *Fooled by Randomness* — Nassim Nicholas Taleb. O papel do acaso que subestimamos.
+- [ ] **0024.** *Range* — David Epstein. Valor do conhecimento amplo — justifica esta lista.
+- [ ] **0025.** *Mindset* — Carol S. Dweck. Crenças sobre capacidade afetam o aprendizado.
+- [ ] **0026.** *Peak* — Anders Ericsson & Robert Pool. Prática deliberada e desenvolvimento de expertise.
+- [ ] **0027.** *The Craft of Research* — Wayne C. Booth, Gregory G. Colomb & Joseph M. Williams. Como pesquisar e sustentar afirmações.
+- [ ] **0028.** *Style: Lessons in Clarity and Grace* — Joseph M. Williams. Escrita clara em nível avançado.
+- [ ] **0029.** *The Sense of Style* — Steven Pinker. Escrita guiada pela ciência cognitiva.
+- [ ] **0030.** *They Say / I Say* — Gerald Graff & Cathy Birkenstein. Estrutura do diálogo acadêmico.
+
+## Fase 2 — Matemática e lógica
+
+- [ ] **0031.** *The Joy of x* — Steven Strogatz. Panorama agradável da matemática.
+- [ ] **0032.** *Mathematics: A Very Short Introduction* — Timothy Gowers. O que é pensar matematicamente.
+- [ ] **0033.** *How to Solve It* — George Pólya. Método clássico de resolução de problemas.
+- [ ] **0034.** *How Not to Be Wrong* — Jordan Ellenberg. Matemática aplicada ao raciocínio cotidiano.
+- [ ] **0035.** *Mathematics for the Nonmathematician* — Morris Kline. Matemática com contexto histórico e cultural.
+- [ ] **0036.** *Journey Through Genius* — William Dunham. Grandes teoremas e suas histórias.
+- [ ] **0037.** *Introduction to Logic* — Irving M. Copi, Carl Cohen & Kenneth McMahon. Lógica formal e informal padrão.
+- [ ] **0038.** *forall x: An Introduction to Formal Logic* — P. D. Magnus. Lógica proposicional e de predicados.
+- [ ] **0039.** *Gödel's Proof* — Ernest Nagel & James R. Newman. Os limites da prova matemática.
+- [ ] **0040.** *How to Prove It* — Daniel J. Velleman. Transição para matemática com provas.
+- [ ] **0041.** *Book of Proof* — Richard Hammack. Prática de técnicas de demonstração.
+- [ ] **0042.** *Basic Mathematics* — Serge Lang. Revisão rigorosa da matemática escolar.
+- [ ] **0043.** *Algebra* — Israel M. Gelfand & Alexander Shen. Álgebra com profundidade conceitual.
+- [ ] **0044.** *Trigonometry* — Israel M. Gelfand & Mark Saul. Trigonometria bem fundamentada.
+- [ ] **0045.** *Calculus Made Easy* — Silvanus P. Thompson. Intuição do cálculo sem medo.
+- [ ] **0046.** *Calculus* — Michael Spivak. Cálculo rigoroso e profundo.
+- [ ] **0047.** *Infinite Powers* — Steven Strogatz. A história e o poder do cálculo.
+- [ ] **0048.** *Linear Algebra Done Right* — Sheldon Axler. Álgebra linear conceitual.
+- [ ] **0049.** *Introduction to Linear Algebra* — Gilbert Strang. Álgebra linear aplicada.
+- [ ] **0050.** *Concrete Mathematics* — Ronald Graham, Donald Knuth & Oren Patashnik. Matemática discreta para computação.
+- [ ] **0051.** *Discrete Mathematics and Its Applications* — Kenneth H. Rosen. Base discreta abrangente.
+- [ ] **0052.** *Introduction to Probability* — Joseph K. Blitzstein & Jessica Hwang. Probabilidade com intuição.
+- [ ] **0053.** *The Drunkard's Walk* — Leonard Mlodinow. Como o acaso governa nossas vidas.
+- [ ] **0054.** *The Signal and the Noise* — Nate Silver. Previsão e pensamento bayesiano.
+- [ ] **0055.** *The Lady Tasting Tea* — David Salsburg. História da estatística moderna.
+- [ ] **0056.** *Naked Statistics* — Charles Wheelan. Estatística intuitiva.
+- [ ] **0057.** *Statistics* — David Freedman, Robert Pisani & Roger Purves. Estatística conceitual clássica.
+- [ ] **0058.** *The Book of Why* — Judea Pearl & Dana Mackenzie. Causalidade versus correlação.
+- [ ] **0059.** *Bernoulli's Fallacy* — Aubrey Clayton. Crítica e fundamentos da inferência estatística.
+- [ ] **0060.** *Proofs from THE BOOK* — Martin Aigner & Günter M. Ziegler. As provas mais elegantes da matemática.
+- [ ] **0061.** *What Is Mathematics?* — Richard Courant & Herbert Robbins. Clássico sobre ideias e métodos.
+- [ ] **0062.** *The Princeton Companion to Mathematics* — Timothy Gowers (ed.). Referência sobre toda a matemática.
+- [ ] **0063.** *Euclid's Elements* — Euclides. Fundação do raciocínio dedutivo.
+- [ ] **0064.** *Flatland* — Edwin A. Abbott. Pensar em dimensões e perspectivas.
+- [ ] **0065.** *Gödel, Escher, Bach* — Douglas Hofstadter. Lógica, mente e autorreferência.
+- [ ] **0066.** *Visual Complex Analysis* — Tristan Needham. Números complexos de forma geométrica.
+- [ ] **0067.** *Understanding Analysis* — Stephen Abbott. Análise real acessível.
+- [ ] **0068.** *Principles of Mathematical Analysis* — Walter Rudin. Análise real clássica e rigorosa.
+- [ ] **0069.** *A Book of Abstract Algebra* — Charles C. Pinter. Álgebra abstrata acessível.
+- [ ] **0070.** *Topology* — James Munkres. Topologia padrão.
+- [ ] **0071.** *Nonlinear Dynamics and Chaos* — Steven Strogatz. Sistemas dinâmicos e caos.
+- [ ] **0072.** *Game Theory: A Very Short Introduction* — Ken Binmore. Decisão estratégica.
+- [ ] **0073.** *The Strategy of Conflict* — Thomas C. Schelling. Teoria dos jogos aplicada.
+- [ ] **0074.** *Information Theory, Inference, and Learning Algorithms* — David J. C. MacKay. Informação e inferência.
+- [ ] **0075.** *A Mathematician's Apology* — G. H. Hardy. A estética e o sentido da matemática.
+- [ ] **0076.** *Men of Mathematics* — E. T. Bell. Vidas dos grandes matemáticos.
+- [ ] **0077.** *Fermat's Last Theorem* — Simon Singh. Uma saga matemática real.
+- [ ] **0078.** *Prime Obsession* — John Derbyshire. A hipótese de Riemann explicada.
+- [ ] **0079.** *Zero: The Biography of a Dangerous Idea* — Charles Seife. História de um conceito fundamental.
+- [ ] **0080.** *Mathematics and the Imagination* — Edward Kasner & James Newman. Ideias matemáticas amplas.
+- [ ] **0081.** *Logic: A Very Short Introduction* — Graham Priest. Panorama filosófico da lógica.
+- [ ] **0082.** *Introduction to Mathematical Philosophy* — Bertrand Russell. Fundamentos da matemática.
+- [ ] **0083.** *An Introduction to Statistical Learning* — Gareth James et al.. Estatística aplicada a dados.
+- [ ] **0084.** *Mathematics: Its Content, Methods and Meaning* — A. D. Aleksandrov, A. N. Kolmogorov & M. A. Lavrent'ev. Panorama soviético completo.
+- [ ] **0085.** *The Man Who Loved Only Numbers* — Paul Hoffman. Erdős e a cultura matemática.
+
+## Fase 3 — Ciências naturais
+
+- [ ] **0086.** *A Short History of Nearly Everything* — Bill Bryson. Visão geral acessível de toda a ciência.
+- [ ] **0087.** *Cosmos* — Carl Sagan. O universo e o lugar humano nele.
+- [ ] **0088.** *The Feynman Lectures on Physics, Vol. I* — Richard Feynman, Robert Leighton & Matthew Sands. Física com intuição profunda.
+- [ ] **0089.** *The Feynman Lectures on Physics, Vol. II* — Richard Feynman, Robert Leighton & Matthew Sands. Eletromagnetismo e matéria.
+- [ ] **0090.** *The Feynman Lectures on Physics, Vol. III* — Richard Feynman, Robert Leighton & Matthew Sands. Mecânica quântica.
+- [ ] **0091.** *Six Easy Pieces* — Richard Feynman. Introdução leve antes das Lectures.
+- [ ] **0092.** *Surely You're Joking, Mr. Feynman!* — Richard Feynman. A mentalidade de um cientista curioso.
+- [ ] **0093.** *The Character of Physical Law* — Richard Feynman. Natureza das leis físicas.
+- [ ] **0094.** *QED: The Strange Theory of Light and Matter* — Richard Feynman. Eletrodinâmica quântica sem equações.
+- [ ] **0095.** *Seven Brief Lessons on Physics* — Carlo Rovelli. Física moderna em síntese.
+- [ ] **0096.** *The Order of Time* — Carlo Rovelli. O que a física diz sobre o tempo.
+- [ ] **0097.** *A Brief History of Time* — Stephen Hawking. Cosmologia popular clássica.
+- [ ] **0098.** *Relativity: The Special and the General Theory* — Albert Einstein. Relatividade pelo próprio autor.
+- [ ] **0099.** *Spacetime Physics* — Edwin F. Taylor & John A. Wheeler. Relatividade especial rigorosa.
+- [ ] **0100.** *The Theoretical Minimum* — Leonard Susskind & George Hrabovsky. Mecânica clássica com matemática real.
+- [ ] **0101.** *Quantum Mechanics: The Theoretical Minimum* — Leonard Susskind & Art Friedman. Quântica com matemática real.
+- [ ] **0102.** *Physics for Scientists and Engineers* — Raymond A. Serway & John W. Jewett. Livro-texto de física geral.
+- [ ] **0103.** *Classical Mechanics* — John R. Taylor. Mecânica em nível universitário.
+- [ ] **0104.** *Introduction to Electrodynamics* — David J. Griffiths. Eletromagnetismo padrão.
+- [ ] **0105.** *Introduction to Quantum Mechanics* — David J. Griffiths. Quântica em nível universitário.
+- [ ] **0106.** *Thermal Physics* — Charles Kittel & Herbert Kroemer. Termodinâmica e física estatística.
+- [ ] **0107.** *Something Deeply Hidden* — Sean Carroll. Interpretações da mecânica quântica.
+- [ ] **0108.** *The Big Picture* — Sean Carroll. Naturalismo e as leis físicas.
+- [ ] **0109.** *The Fabric of the Cosmos* — Brian Greene. Espaço, tempo e realidade.
+- [ ] **0110.** *The First Three Minutes* — Steven Weinberg. Origem do universo.
+- [ ] **0111.** *To Explain the World* — Steven Weinberg. História da ciência moderna.
+- [ ] **0112.** *The Making of the Atomic Bomb* — Richard Rhodes. Física, história e ética juntas.
+- [ ] **0113.** *Subtle Is the Lord* — Abraham Pais. Biografia científica de Einstein.
+- [ ] **0114.** *Einstein: His Life and Universe* — Walter Isaacson. Einstein acessível.
+- [ ] **0115.** *Newton's Principia for the Common Reader* — S. Chandrasekhar. Entender o livro mais importante da física.
+- [ ] **0116.** *Dialogue Concerning the Two Chief World Systems* — Galileo Galilei. Nascimento da ciência moderna.
+- [ ] **0117.** *Sidereal Messenger* — Galileo Galilei. Observação telescópica original.
+- [ ] **0118.** *Astrophysics for People in a Hurry* — Neil deGrasse Tyson. Astronomia essencial.
+- [ ] **0119.** *An Introduction to Modern Astrophysics* — Bradley W. Carroll & Dale A. Ostlie. Astrofísica rigorosa.
+- [ ] **0120.** *Pale Blue Dot* — Carl Sagan. Perspectiva humana no cosmos.
+- [ ] **0121.** *The Periodic Table* — Primo Levi. Química como literatura e vida.
+- [ ] **0122.** *The Disappearing Spoon* — Sam Kean. Histórias dos elementos químicos.
+- [ ] **0123.** *Chemistry: The Central Science* — Theodore L. Brown et al.. Química geral padrão.
+- [ ] **0124.** *Napoleon's Buttons* — Penny Le Couteur & Jay Burreson. Moléculas que mudaram a história.
+- [ ] **0125.** *The Same and Not the Same* — Roald Hoffmann. Filosofia da química.
+- [ ] **0126.** *Organic Chemistry* — Jonathan Clayden, Nick Greeves & Stuart Warren. Química orgânica conceitual.
+- [ ] **0127.** *The Double Helix* — James D. Watson. A descoberta do DNA.
+- [ ] **0128.** *Rosalind Franklin: The Dark Lady of DNA* — Brenda Maddox. Contraponto histórico sobre o DNA.
+- [ ] **0129.** *On the Origin of Species* — Charles Darwin. Fundação da biologia moderna.
+- [ ] **0130.** *The Voyage of the Beagle* — Charles Darwin. Observação naturalista em ação.
+- [ ] **0131.** *The Selfish Gene* — Richard Dawkins. Evolução do ponto de vista do gene.
+- [ ] **0132.** *The Blind Watchmaker* — Richard Dawkins. Como a seleção natural cria complexidade.
+- [ ] **0133.** *Why Evolution Is True* — Jerry A. Coyne. Evidências da evolução.
+- [ ] **0134.** *Your Inner Fish* — Neil Shubin. Anatomia humana pela evolução.
+- [ ] **0135.** *Wonderful Life* — Stephen Jay Gould. Contingência na história da vida.
+- [ ] **0136.** *The Mismeasure of Man* — Stephen Jay Gould. Abuso da ciência para racismo.
+- [ ] **0137.** *The Ancestor's Tale* — Richard Dawkins. A árvore da vida de trás para frente.
+- [ ] **0138.** *The Gene: An Intimate History* — Siddhartha Mukherjee. História da genética.
+- [ ] **0139.** *The Emperor of All Maladies* — Siddhartha Mukherjee. Biografia do câncer.
+- [ ] **0140.** *The Song of the Cell* — Siddhartha Mukherjee. A célula como unidade da vida.
+- [ ] **0141.** *Molecular Biology of the Cell* — Bruce Alberts et al.. Referência em biologia celular.
+- [ ] **0142.** *Campbell Biology* — Lisa A. Urry et al.. Biologia geral padrão.
+- [ ] **0143.** *Life Ascending* — Nick Lane. As grandes invenções da evolução.
+- [ ] **0144.** *The Vital Question* — Nick Lane. Energia e origem da vida complexa.
+- [ ] **0145.** *I Contain Multitudes* — Ed Yong. Microbioma e simbiose.
+- [ ] **0146.** *An Immense World* — Ed Yong. Os sentidos dos animais.
+- [ ] **0147.** *The Beak of the Finch* — Jonathan Weiner. Evolução observada em tempo real.
+- [ ] **0148.** *Sapiens* — Yuval Noah Harari. Panorama provocativo da humanidade (ler criticamente).
+- [ ] **0149.** *The Sixth Extinction* — Elizabeth Kolbert. Extinções e impacto humano.
+- [ ] **0150.** *Silent Spring* — Rachel Carson. Nascimento da consciência ecológica.
+- [ ] **0151.** *A Sand County Almanac* — Aldo Leopold. Ética da terra.
+- [ ] **0152.** *The Hidden Life of Trees* — Peter Wohlleben. Ecologia florestal (ler com senso crítico).
+- [ ] **0153.** *Ecology: Concepts and Applications* — Manuel C. Molles. Ecologia científica.
+- [ ] **0154.** *The Machinery of Life* — David S. Goodsell. Visualizar o mundo molecular.
+- [ ] **0155.** *Gray's Anatomy for Students* — Richard Drake, Wayne Vogl & Adam Mitchell. Anatomia humana.
+- [ ] **0156.** *Guyton and Hall Textbook of Medical Physiology* — John E. Hall. Como o corpo funciona.
+- [ ] **0157.** *Why We Get Sick* — Randolph M. Nesse & George C. Williams. Medicina evolutiva.
+- [ ] **0158.** *The Body* — Bill Bryson. Corpo humano acessível.
+- [ ] **0159.** *The Immune System* — Peter Parham. Imunologia essencial.
+- [ ] **0160.** *Spillover* — David Quammen. Zoonoses e pandemias.
+- [ ] **0161.** *The Great Influenza* — John M. Barry. Ciência e política numa pandemia.
+- [ ] **0162.** *The Ghost Map* — Steven Johnson. Epidemiologia nasce em Londres.
+- [ ] **0163.** *Guns, Germs, and Steel* — Jared Diamond. Geografia e destino das sociedades.
+- [ ] **0164.** *Collapse* — Jared Diamond. Por que sociedades falham.
+- [ ] **0165.** *The Brain That Changes Itself* — Norman Doidge. Neuroplasticidade (ler criticamente).
+- [ ] **0166.** *Behave* — Robert M. Sapolsky. Biologia do comportamento humano.
+- [ ] **0167.** *Why Zebras Don't Get Ulcers* — Robert M. Sapolsky. Estresse e fisiologia.
+- [ ] **0168.** *The Man Who Mistook His Wife for a Hat* — Oliver Sacks. Neurologia através de casos.
+- [ ] **0169.** *Principles of Neural Science* — Eric Kandel et al.. Neurociência de referência.
+- [ ] **0170.** *In Search of Memory* — Eric Kandel. Ciência da memória.
+- [ ] **0171.** *The Tell-Tale Brain* — V. S. Ramachandran. Neurologia e consciência.
+- [ ] **0172.** *Being You* — Anil Seth. Neurociência da consciência.
+- [ ] **0173.** *Consciousness Explained* — Daniel C. Dennett. Teoria filosófica da mente.
+- [ ] **0174.** *Annals of the Former World* — John McPhee. Geologia narrada.
+- [ ] **0175.** *Earth: An Intimate History* — Richard Fortey. História geológica do planeta.
+- [ ] **0176.** *Understanding Earth* — John Grotzinger & Thomas Jordan. Geologia de referência.
+- [ ] **0177.** *The Map That Changed the World* — Simon Winchester. Nascimento da geologia.
+- [ ] **0178.** *The Weather Machine* — Andrew Blum. Previsão do tempo moderna.
+- [ ] **0179.** *The Discoverers* — Daniel J. Boorstin. História das descobertas humanas.
+- [ ] **0180.** *The Invention of Nature* — Andrea Wulf. Humboldt e a ciência integrada.
+- [ ] **0181.** *The Age of Wonder* — Richard Holmes. Ciência na era romântica.
+- [ ] **0182.** *The Scientific Revolution* — Steven Shapin. Como nasceu a ciência.
+- [ ] **0183.** *Longitude* — Dava Sobel. Um problema científico com impacto histórico.
+- [ ] **0184.** *The Sleepwalkers* — Arthur Koestler. Cosmologia de Pitágoras a Newton.
+- [ ] **0185.** *Isaac Newton* — James Gleick. Biografia concisa de Newton.
+- [ ] **0186.** *Chaos: Making a New Science* — James Gleick. Teoria do caos.
+- [ ] **0187.** *The Information* — James Gleick. História da informação.
+- [ ] **0188.** *The Code Breaker* — Walter Isaacson. CRISPR e edição genética.
+- [ ] **0189.** *The Emperor's New Mind* — Roger Penrose. Física, mente e computação.
+- [ ] **0190.** *The Road to Reality* — Roger Penrose. Guia matemático completo da física.
+- [ ] **0191.** *Lost in Math* — Sabine Hossenfelder. Crítica à física teórica atual.
+- [ ] **0192.** *The Particle at the End of the Universe* — Sean Carroll. O bóson de Higgs.
+- [ ] **0193.** *Genome* — Matt Ridley. Um gene por cromossomo.
+- [ ] **0194.** *The Rational Optimist* — Matt Ridley. Como a prosperidade evolui.
+- [ ] **0195.** *Energy and Civilization* — Vaclav Smil. Energia como motor da história.
+- [ ] **0196.** *How the World Really Works* — Vaclav Smil. Base material da civilização moderna.
+- [ ] **0197.** *Physics of the Impossible* — Michio Kaku. Limites da física aplicada.
+- [ ] **0198.** *The Structure of Evolutionary Theory* — Stephen Jay Gould. Tratado sobre a teoria evolutiva.
+
+## Fase 4 — História
+
+- [ ] **0199.** *A Little History of the World* — E. H. Gombrich. Porta de entrada para a história mundial.
+- [ ] **0200.** *The Human Web* — J. R. McNeill & William H. McNeill. História global em redes.
+- [ ] **0201.** *The Rise of the West* — William H. McNeill. Clássico da história mundial.
+- [ ] **0202.** *Plagues and Peoples* — William H. McNeill. Doenças como força histórica.
+- [ ] **0203.** *What Is History?* — E. H. Carr. Como se escreve e se lê história.
+- [ ] **0204.** *The Historian's Craft* — Marc Bloch. Método histórico.
+- [ ] **0205.** *The Landmark Herodotus* — Heródoto (ed. Robert Strassler). O primeiro historiador.
+- [ ] **0206.** *The Landmark Thucydides* — Tucídides (ed. Robert Strassler). História política e realismo.
+- [ ] **0207.** *Anabasis* — Xenofonte. Narrativa militar grega em primeira mão.
+- [ ] **0208.** *The Histories* — Políbio. Ascensão de Roma.
+- [ ] **0209.** *The History of Rome, Books 1–5* — Tito Lívio. Roma arcaica.
+- [ ] **0210.** *The Gallic War* — Júlio César. César por ele mesmo.
+- [ ] **0211.** *The Twelve Caesars* — Suetônio. Biografias imperiais.
+- [ ] **0212.** *The Annals* — Tácito. Poder e decadência em Roma.
+- [ ] **0213.** *Parallel Lives* — Plutarco. Caráter e liderança na antiguidade.
+- [ ] **0214.** *The Jewish War* — Flávio Josefo. Judeia sob Roma.
+- [ ] **0215.** *SPQR* — Mary Beard. Roma moderna e crítica.
+- [ ] **0216.** *Rubicon* — Tom Holland. Queda da República Romana.
+- [ ] **0217.** *The History of the Decline and Fall of the Roman Empire* — Edward Gibbon. Monumento da historiografia.
+- [ ] **0218.** *The Fall of Rome and the End of Civilization* — Bryan Ward-Perkins. Evidência arqueológica do colapso.
+- [ ] **0219.** *The Ancient City* — Numa Denis Fustel de Coulanges. Religião e instituições antigas.
+- [ ] **0220.** *The Greeks* — H. D. F. Kitto. Cultura grega clássica.
+- [ ] **0221.** *The Oxford History of Ancient Egypt* — Ian Shaw (ed.). Egito antigo com rigor.
+- [ ] **0222.** *Mesopotamia: The Invention of the City* — Gwendolyn Leick. Origem das cidades.
+- [ ] **0223.** *1177 B.C.: The Year Civilization Collapsed* — Eric H. Cline. Colapso da Idade do Bronze.
+- [ ] **0224.** *Against the Grain* — James C. Scott. Origens críticas do Estado.
+- [ ] **0225.** *The Dawn of Everything* — David Graeber & David Wengrow. Debate sobre origens sociais (ler criticamente).
+- [ ] **0226.** *The Silk Roads* — Peter Frankopan. Mundo visto a partir da Ásia Central.
+- [ ] **0227.** *The Horse, the Wheel, and Language* — David W. Anthony. Origem dos indo-europeus.
+- [ ] **0228.** *Who We Are and How We Got Here* — David Reich. DNA antigo e migrações.
+- [ ] **0229.** *The Birth of Europe* — Jacques Le Goff. Europa medieval.
+- [ ] **0230.** *The Making of the Middle Ages* — R. W. Southern. Civilização medieval.
+- [ ] **0231.** *Medieval Civilization* — Jacques Le Goff. Mentalidades medievais.
+- [ ] **0232.** *The Waning of the Middle Ages* — Johan Huizinga. Cultura do fim da Idade Média.
+- [ ] **0233.** *The Crusades* — Thomas Asbridge. Cruzadas equilibradas.
+- [ ] **0234.** *The Great Arab Conquests* — Hugh Kennedy. Expansão islâmica.
+- [ ] **0235.** *Lost Enlightenment* — S. Frederick Starr. Idade de ouro da Ásia Central.
+- [ ] **0236.** *Genghis Khan and the Making of the Modern World* — Jack Weatherford. Império mongol.
+- [ ] **0237.** *The Black Death* — Philip Ziegler. Peste na Europa.
+- [ ] **0238.** *A Distant Mirror* — Barbara W. Tuchman. O calamitoso século XIV.
+- [ ] **0239.** *The Civilization of the Renaissance in Italy* — Jacob Burckhardt. Renascimento clássico.
+- [ ] **0240.** *The Swerve* — Stephen Greenblatt. Redescoberta de Lucrécio.
+- [ ] **0241.** *The Reformation* — Diarmaid MacCulloch. Reforma protestante.
+- [ ] **0242.** *Byzantium: The Surprising Life of a Medieval Empire* — Judith Herrin. Império bizantino.
+- [ ] **0243.** *The Ottoman Empire* — Caroline Finkel. Seis séculos otomanos.
+- [ ] **0244.** *1491* — Charles C. Mann. Américas antes de Colombo.
+- [ ] **0245.** *1493* — Charles C. Mann. Intercâmbio colombiano.
+- [ ] **0246.** *The Conquest of New Spain* — Bernal Díaz del Castillo. Conquista do México por testemunha.
+- [ ] **0247.** *A Short Account of the Destruction of the Indies* — Bartolomé de las Casas. Denúncia da colonização.
+- [ ] **0248.** *Open Veins of Latin America* — Eduardo Galeano. Visão crítica da América Latina (ler com contrapontos).
+- [ ] **0249.** *Brazil: A Biography* — Lilia M. Schwarcz & Heloisa M. Starling. História do Brasil.
+- [ ] **0250.** *The Masters and the Slaves* — Gilberto Freyre. Formação social brasileira.
+- [ ] **0251.** *Roots of Brazil* — Sérgio Buarque de Holanda. Interpretação clássica do Brasil.
+- [ ] **0252.** *The Slave Ship* — Marcus Rediker. Tráfico transatlântico.
+- [ ] **0253.** *The Half Has Never Been Told* — Edward E. Baptist. Escravidão e capitalismo americano.
+- [ ] **0254.** *King Leopold's Ghost* — Adam Hochschild. Colonialismo no Congo.
+- [ ] **0255.** *The Scramble for Africa* — Thomas Pakenham. Partilha da África.
+- [ ] **0256.** *Africa: A Biography of the Continent* — John Reader. História africana ampla.
+- [ ] **0257.** *The Fate of Africa* — Martin Meredith. África pós-independência.
+- [ ] **0258.** *China: A New History* — John K. Fairbank & Merle Goldman. História da China.
+- [ ] **0259.** *The Search for Modern China* — Jonathan D. Spence. China moderna.
+- [ ] **0260.** *Wild Swans* — Jung Chang. China do século XX por três gerações.
+- [ ] **0261.** *Embracing Defeat* — John W. Dower. Japão pós-guerra.
+- [ ] **0262.** *A Modern History of Japan* — Andrew Gordon. Japão moderno.
+- [ ] **0263.** *India After Gandhi* — Ramachandra Guha. Índia independente.
+- [ ] **0264.** *The Wonder That Was India* — A. L. Basham. Índia antiga.
+- [ ] **0265.** *Inglorious Empire* — Shashi Tharoor. Crítica ao império britânico na Índia.
+- [ ] **0266.** *Empire* — Niall Ferguson. Defesa do império britânico — ler junto do anterior.
+- [ ] **0267.** *The Age of Revolution: 1789–1848* — Eric Hobsbawm. Revoluções dual.
+- [ ] **0268.** *The Age of Capital: 1848–1875* — Eric Hobsbawm. Triunfo burguês.
+- [ ] **0269.** *The Age of Empire: 1875–1914* — Eric Hobsbawm. Imperialismo.
+- [ ] **0270.** *The Age of Extremes* — Eric Hobsbawm. O breve século XX.
+- [ ] **0271.** *Citizens* — Simon Schama. Revolução Francesa.
+- [ ] **0272.** *The Old Regime and the Revolution* — Alexis de Tocqueville. Causas da Revolução.
+- [ ] **0273.** *Reflections on the Revolution in France* — Edmund Burke. Crítica conservadora à Revolução.
+- [ ] **0274.** *The Glorious Cause* — Robert Middlekauff. Revolução Americana.
+- [ ] **0275.** *The Federalist Papers* — Alexander Hamilton, James Madison & John Jay. Fundação constitucional.
+- [ ] **0276.** *Battle Cry of Freedom* — James M. McPherson. Guerra Civil Americana.
+- [ ] **0277.** *A People's History of the United States* — Howard Zinn. História vista de baixo (ler criticamente).
+- [ ] **0278.** *The American Political Tradition* — Richard Hofstadter. Ideias políticas americanas.
+- [ ] **0279.** *The Guns of August* — Barbara W. Tuchman. Início da Primeira Guerra.
+- [ ] **0280.** *The Sleepwalkers: How Europe Went to War in 1914* — Christopher Clark. Causas da Grande Guerra.
+- [ ] **0281.** *The Great War and Modern Memory* — Paul Fussell. Guerra e cultura.
+- [ ] **0282.** *All Quiet on the Western Front* — Erich Maria Remarque. Guerra pelo soldado.
+- [ ] **0283.** *A People's Tragedy* — Orlando Figes. Revolução Russa.
+- [ ] **0284.** *The Gulag Archipelago* — Aleksandr Solzhenitsyn. Repressão soviética.
+- [ ] **0285.** *Bloodlands* — Timothy Snyder. Europa entre Hitler e Stálin.
+- [ ] **0286.** *The Rise and Fall of the Third Reich* — William L. Shirer. Nazismo clássico.
+- [ ] **0287.** *The Coming of the Third Reich* — Richard J. Evans. Ascensão nazista rigorosa.
+- [ ] **0288.** *Ordinary Men* — Christopher R. Browning. Como pessoas comuns cometem genocídio.
+- [ ] **0289.** *If This Is a Man* — Primo Levi. Testemunho de Auschwitz.
+- [ ] **0290.** *Night* — Elie Wiesel. Memória do Holocausto.
+- [ ] **0291.** *The Diary of a Young Girl* — Anne Frank. Holocausto em voz pessoal.
+- [ ] **0292.** *Man's Search for Meaning* — Viktor E. Frankl. Sentido diante do sofrimento.
+- [ ] **0293.** *The Second World War* — Antony Beevor. Visão geral da guerra.
+- [ ] **0294.** *Inferno: The World at War, 1939–1945* — Max Hastings. Experiência humana da guerra.
+- [ ] **0295.** *Postwar* — Tony Judt. Europa desde 1945.
+- [ ] **0296.** *The Cold War* — John Lewis Gaddis. Guerra Fria concisa.
+- [ ] **0297.** *The Looming Tower* — Lawrence Wright. Origens do 11 de Setembro.
+- [ ] **0298.** *The Arab World: A History* — Eugene Rogan. Os árabes modernos.
+- [ ] **0299.** *A Peace to End All Peace* — David Fromkin. Criação do Oriente Médio moderno.
+- [ ] **0300.** *Orientalism* — Edward W. Said. Crítica às representações ocidentais.
+- [ ] **0301.** *Long Walk to Freedom* — Nelson Mandela. Apartheid e reconciliação.
+- [ ] **0302.** *The Autobiography of Malcolm X* — Malcolm X & Alex Haley. Raça e identidade nos EUA.
+- [ ] **0303.** *The Warmth of Other Suns* — Isabel Wilkerson. Grande migração afro-americana.
+- [ ] **0304.** *The Great Transformation* — Karl Polanyi. Mercado e sociedade.
+- [ ] **0305.** *The Great Divergence* — Kenneth Pomeranz. Por que a Europa se distanciou.
+- [ ] **0306.** *The Wealth and Poverty of Nations* — David S. Landes. Cultura e desenvolvimento.
+- [ ] **0307.** *The Great Escape* — Angus Deaton. Saúde e riqueza na história.
+- [ ] **0308.** *The Better Angels of Our Nature* — Steven Pinker. Declínio da violência (debate aberto).
+- [ ] **0309.** *Enlightenment Now* — Steven Pinker. Defesa do progresso iluminista.
+- [ ] **0310.** *The Rise and Fall of the Great Powers* — Paul Kennedy. Economia e poder militar.
+- [ ] **0311.** *World Order* — Henry Kissinger. Sistemas de ordem internacional.
+- [ ] **0312.** *Diplomacy* — Henry Kissinger. História da diplomacia.
+- [ ] **0313.** *The Muqaddimah* — Ibn Khaldun. Filosofia da história islâmica.
+- [ ] **0314.** *A War Like No Other* — Victor Davis Hanson. Guerra do Peloponeso analisada.
+- [ ] **0315.** *Team of Rivals* — Doris Kearns Goodwin. Lincoln e liderança.
+- [ ] **0316.** *Alexander Hamilton* — Ron Chernow. Fundação financeira dos EUA.
+- [ ] **0317.** *Napoleon: A Life* — Andrew Roberts. Napoleão.
+- [ ] **0318.** *Stalin: Paradoxes of Power* — Stephen Kotkin. Stálin e o sistema soviético.
+- [ ] **0319.** *Hitler: 1889–1936 Hubris* — Ian Kershaw. Biografia definitiva de Hitler.
+- [ ] **0320.** *Churchill: Walking with Destiny* — Andrew Roberts. Churchill.
+- [ ] **0321.** *Mao: The Unknown Story* — Jung Chang & Jon Halliday. Mao (contestado; ler com cautela).
+- [ ] **0322.** *Mao's Great Famine* — Frank Dikötter. Grande Salto Adiante.
+- [ ] **0323.** *Aztecs: An Interpretation* — Inga Clendinnen. Mundo asteca.
+- [ ] **0324.** *The Inca Empire* — Terence N. D'Altroy. Os incas.
+- [ ] **0325.** *The Maya* — Michael D. Coe & Stephen Houston. Civilização maia.
+- [ ] **0326.** *Children of Ash and Elm* — Neil Price. Vikings pela arqueologia.
+- [ ] **0327.** *The Anglo-Saxon Chronicle* — Anônimo. Fonte primária medieval.
+- [ ] **0328.** *The Venture of Islam, Vol. 1* — Marshall G. S. Hodgson. Civilização islâmica.
+- [ ] **0329.** *The House of Wisdom* — Jim Al-Khalili. Ciência árabe medieval.
+- [ ] **0330.** *Empires of the Silk Road* — Christopher I. Beckwith. Eurásia central.
+- [ ] **0331.** *The Mongols* — David Morgan. Síntese acadêmica dos mongóis.
+- [ ] **0332.** *The Cambridge Illustrated History of China* — Patricia Buckley Ebrey. China ilustrada.
+- [ ] **0333.** *The Tale of the Heike* — Anônimo. Épico histórico japonês.
+- [ ] **0334.** *Records of the Grand Historian* — Sima Qian. Historiografia chinesa fundadora.
+- [ ] **0335.** *A History of the Modern Middle East* — William L. Cleveland & Martin Bunton. Oriente Médio moderno.
+- [ ] **0336.** *Mexico: Biography of Power* — Enrique Krauze. México moderno.
+- [ ] **0337.** *The Brazilian Empire* — Emília Viotti da Costa. Brasil imperial.
+- [ ] **0338.** *Os Sertões (Rebellion in the Backlands)* — Euclides da Cunha. Canudos e Brasil profundo.
+- [ ] **0339.** *Formação do Brasil Contemporâneo* — Caio Prado Júnior. Economia colonial brasileira.
+- [ ] **0340.** *Formação Econômica do Brasil* — Celso Furtado. Economia histórica do Brasil.
+- [ ] **0341.** *Os Donos do Poder* — Raymundo Faoro. Patrimonialismo brasileiro.
+- [ ] **0342.** *Iron Curtain* — Anne Applebaum. Sovietização do Leste Europeu.
+- [ ] **0343.** *The Origins of Totalitarianism* — Hannah Arendt. Anatomia do totalitarismo.
+- [ ] **0344.** *Eichmann in Jerusalem* — Hannah Arendt. A banalidade do mal.
+- [ ] **0345.** *The Discovery of India* — Jawaharlal Nehru. Índia vista por Nehru.
+- [ ] **0346.** *Gandhi: An Autobiography* — Mohandas K. Gandhi. Não-violência em prática.
+- [ ] **0347.** *The Autobiography of Benjamin Franklin* — Benjamin Franklin. Autoformação iluminista.
+- [ ] **0348.** *Narrative of the Life of Frederick Douglass* — Frederick Douglass. Escravidão em primeira pessoa.
+- [ ] **0349.** *Up from Slavery* — Booker T. Washington. Educação e ascensão.
+- [ ] **0350.** *The Souls of Black Folk* — W. E. B. Du Bois. Dupla consciência.
+- [ ] **0351.** *The Structures of Everyday Life* — Fernand Braudel. Vida material da história.
+- [ ] **0352.** *The Mediterranean and the Mediterranean World* — Fernand Braudel. História de longa duração.
+- [ ] **0353.** *The Return of Martin Guerre* — Natalie Zemon Davis. Micro-história.
+- [ ] **0354.** *The Cheese and the Worms* — Carlo Ginzburg. Mente de um camponês do século XVI.
+- [ ] **0355.** *Europe: A History* — Norman Davies. Europa completa.
+- [ ] **0356.** *The Lessons of History* — Will & Ariel Durant. Síntese de padrões históricos.
+
+## Fase 5 — Filosofia
+
+- [ ] **0357.** *Sophie's World* — Jostein Gaarder. Introdução narrativa à história da filosofia.
+- [ ] **0358.** *The Story of Philosophy* — Will Durant. Grandes filósofos acessíveis.
+- [ ] **0359.** *Think* — Simon Blackburn. Problemas centrais da filosofia.
+- [ ] **0360.** *The Problems of Philosophy* — Bertrand Russell. Epistemologia introdutória clássica.
+- [ ] **0361.** *What Does It All Mean?* — Thomas Nagel. Filosofia em poucas páginas.
+- [ ] **0362.** *A History of Western Philosophy* — Bertrand Russell. Panorama opinativo e brilhante.
+- [ ] **0363.** *A New History of Western Philosophy* — Anthony Kenny. Panorama mais equilibrado.
+- [ ] **0364.** *Early Greek Philosophy* — Jonathan Barnes (ed.). Pré-socráticos.
+- [ ] **0365.** *Euthyphro, Apology, Crito, Phaedo* — Platão. Julgamento e morte de Sócrates.
+- [ ] **0366.** *Meno* — Platão. Conhecimento e virtude.
+- [ ] **0367.** *Gorgias* — Platão. Retórica versus filosofia.
+- [ ] **0368.** *Symposium* — Platão. Natureza do amor.
+- [ ] **0369.** *Republic* — Platão. Justiça, Estado e alma.
+- [ ] **0370.** *Theaetetus* — Platão. O que é conhecimento.
+- [ ] **0371.** *Nicomachean Ethics* — Aristóteles. Ética da virtude.
+- [ ] **0372.** *Politics* — Aristóteles. Fundamentos da ciência política.
+- [ ] **0373.** *Poetics* — Aristóteles. Teoria da literatura.
+- [ ] **0374.** *Metaphysics* — Aristóteles. Ser enquanto ser.
+- [ ] **0375.** *Organon (Categories & Prior Analytics)* — Aristóteles. Origem da lógica.
+- [ ] **0376.** *Lives of the Eminent Philosophers* — Diógenes Laércio. Fonte sobre filósofos antigos.
+- [ ] **0377.** *Letters and Sayings of Epicurus* — Epicuro. Prazer, tranquilidade e morte.
+- [ ] **0378.** *On the Nature of Things* — Lucrécio. Atomismo e naturalismo antigo.
+- [ ] **0379.** *Enchiridion* — Epicteto. Estoicismo prático.
+- [ ] **0380.** *Discourses* — Epicteto. Estoicismo aprofundado.
+- [ ] **0381.** *Letters from a Stoic* — Sêneca. Sabedoria cotidiana.
+- [ ] **0382.** *Meditations* — Marco Aurélio. Autodisciplina de um imperador.
+- [ ] **0383.** *On Duties* — Cícero. Ética política romana.
+- [ ] **0384.** *Outlines of Pyrrhonism* — Sexto Empírico. Ceticismo antigo.
+- [ ] **0385.** *The Enneads* — Plotino. Neoplatonismo.
+- [ ] **0386.** *The Consolation of Philosophy* — Boécio. Ponte entre antiguidade e medievo.
+- [ ] **0387.** *Tao Te Ching* — Lao-Tsé. Filosofia taoista.
+- [ ] **0388.** *Zhuangzi* — Zhuangzi. Taoismo e relatividade.
+- [ ] **0389.** *The Analects* — Confúcio. Ética confuciana.
+- [ ] **0390.** *Mencius* — Mêncio. Natureza humana boa.
+- [ ] **0391.** *Xunzi* — Xunzi. Contraponto confuciano.
+- [ ] **0392.** *The Art of War* — Sun Tzu. Estratégia clássica.
+- [ ] **0393.** *The Dhammapada* — Tradição budista. Ética budista essencial.
+- [ ] **0394.** *The Bhagavad Gita* — Tradição hindu. Dever e ação.
+- [ ] **0395.** *The Upanishads* — Tradição hindu (trad. Eknath Easwaran). Metafísica indiana.
+- [ ] **0396.** *The Fundamental Wisdom of the Middle Way* — Nāgārjuna (trad. Jay Garfield). Vacuidade budista.
+- [ ] **0397.** *The Incoherence of the Philosophers* — Al-Ghazali. Crítica islâmica à filosofia.
+- [ ] **0398.** *The Incoherence of the Incoherence* — Averróis. Defesa da razão.
+- [ ] **0399.** *The Guide for the Perplexed* — Maimônides. Fé e razão judaica.
+- [ ] **0400.** *Summa Theologica (Selections)* — Tomás de Aquino. Síntese escolástica.
+- [ ] **0401.** *The Prince* — Nicolau Maquiavel. Realismo político.
+- [ ] **0402.** *Discourses on Livy* — Nicolau Maquiavel. Maquiavel republicano.
+- [ ] **0403.** *Essays* — Michel de Montaigne. Autoexame e ceticismo humanista.
+- [ ] **0404.** *Utopia* — Thomas More. Crítica social imaginada.
+- [ ] **0405.** *Novum Organum* — Francis Bacon. Método empírico.
+- [ ] **0406.** *Meditations on First Philosophy* — René Descartes. Certeza e dualismo.
+- [ ] **0407.** *Discourse on Method* — René Descartes. Método racional.
+- [ ] **0408.** *Leviathan* — Thomas Hobbes. Contrato social e soberania.
+- [ ] **0409.** *Ethics* — Baruch Spinoza. Racionalismo e Deus-natureza.
+- [ ] **0410.** *Theological-Political Treatise* — Baruch Spinoza. Liberdade de pensamento.
+- [ ] **0411.** *Pensées* — Blaise Pascal. Fé, razão e condição humana.
+- [ ] **0412.** *Discourse on Metaphysics and Monadology* — Gottfried W. Leibniz. Racionalismo leibniziano.
+- [ ] **0413.** *An Essay Concerning Human Understanding* — John Locke. Empirismo.
+- [ ] **0414.** *Second Treatise of Government* — John Locke. Direitos naturais e governo.
+- [ ] **0415.** *A Letter Concerning Toleration* — John Locke. Tolerância religiosa.
+- [ ] **0416.** *Three Dialogues between Hylas and Philonous* — George Berkeley. Idealismo empirista.
+- [ ] **0417.** *An Enquiry Concerning Human Understanding* — David Hume. Causalidade e indução.
+- [ ] **0418.** *Dialogues Concerning Natural Religion* — David Hume. Crítica à teologia natural.
+- [ ] **0419.** *A Treatise of Human Nature* — David Hume. Hume completo.
+- [ ] **0420.** *The Spirit of the Laws* — Montesquieu. Separação de poderes.
+- [ ] **0421.** *Candide* — Voltaire. Sátira ao otimismo.
+- [ ] **0422.** *Philosophical Letters* — Voltaire. Iluminismo em ação.
+- [ ] **0423.** *Discourse on Inequality* — Jean-Jacques Rousseau. Origem da desigualdade.
+- [ ] **0424.** *The Social Contract* — Jean-Jacques Rousseau. Vontade geral.
+- [ ] **0425.** *Emile* — Jean-Jacques Rousseau. Filosofia da educação.
+- [ ] **0426.** *Groundwork of the Metaphysics of Morals* — Immanuel Kant. Imperativo categórico.
+- [ ] **0427.** *Prolegomena to Any Future Metaphysics* — Immanuel Kant. Introdução à crítica kantiana.
+- [ ] **0428.** *Critique of Pure Reason* — Immanuel Kant. Limites da razão.
+- [ ] **0429.** *What Is Enlightenment?* — Immanuel Kant. Ousar saber.
+- [ ] **0430.** *Perpetual Peace* — Immanuel Kant. Paz entre nações.
+- [ ] **0431.** *A Vindication of the Rights of Woman* — Mary Wollstonecraft. Feminismo iluminista.
+- [ ] **0432.** *Introduction to the Principles of Morals and Legislation* — Jeremy Bentham. Utilitarismo fundador.
+- [ ] **0433.** *Phenomenology of Spirit* — G. W. F. Hegel. Dialética da consciência.
+- [ ] **0434.** *Introduction to the Philosophy of History* — G. W. F. Hegel. Hegel acessível.
+- [ ] **0435.** *The World as Will and Representation* — Arthur Schopenhauer. Pessimismo metafísico.
+- [ ] **0436.** *Either/Or* — Søren Kierkegaard. Estético versus ético.
+- [ ] **0437.** *Fear and Trembling* — Søren Kierkegaard. Fé e absurdo.
+- [ ] **0438.** *The Sickness unto Death* — Søren Kierkegaard. Desespero e existência.
+- [ ] **0439.** *On Liberty* — John Stuart Mill. Liberdade individual.
+- [ ] **0440.** *Utilitarianism* — John Stuart Mill. Ética consequencialista.
+- [ ] **0441.** *The Subjection of Women* — John Stuart Mill. Igualdade de gênero.
+- [ ] **0442.** *The Communist Manifesto* — Karl Marx & Friedrich Engels. Materialismo histórico em síntese.
+- [ ] **0443.** *Economic and Philosophic Manuscripts of 1844* — Karl Marx. Alienação.
+- [ ] **0444.** *Walden* — Henry David Thoreau. Simplicidade e autonomia.
+- [ ] **0445.** *Civil Disobedience* — Henry David Thoreau. Resistência moral.
+- [ ] **0446.** *Self-Reliance and Other Essays* — Ralph Waldo Emerson. Individualismo americano.
+- [ ] **0447.** *Thus Spoke Zarathustra* — Friedrich Nietzsche. Super-homem e valores.
+- [ ] **0448.** *Beyond Good and Evil* — Friedrich Nietzsche. Crítica à moral tradicional.
+- [ ] **0449.** *On the Genealogy of Morality* — Friedrich Nietzsche. Origem dos valores morais.
+- [ ] **0450.** *Twilight of the Idols* — Friedrich Nietzsche. Nietzsche condensado.
+- [ ] **0451.** *Pragmatism* — William James. Verdade pelo uso.
+- [ ] **0452.** *The Varieties of Religious Experience* — William James. Psicologia da religião.
+- [ ] **0453.** *Democracy and Education* — John Dewey. Educação democrática.
+- [ ] **0454.** *The Fixation of Belief* — Charles S. Peirce. Métodos de formar crenças.
+- [ ] **0455.** *Logical Investigations (Shorter Version)* — Edmund Husserl. Fenomenologia.
+- [ ] **0456.** *Being and Time* — Martin Heidegger. Ontologia existencial.
+- [ ] **0457.** *Tractatus Logico-Philosophicus* — Ludwig Wittgenstein. Limites da linguagem.
+- [ ] **0458.** *Philosophical Investigations* — Ludwig Wittgenstein. Linguagem como uso.
+- [ ] **0459.** *Language, Truth and Logic* — A. J. Ayer. Positivismo lógico.
+- [ ] **0460.** *The Logic of Scientific Discovery* — Karl Popper. Falseabilidade.
+- [ ] **0461.** *Conjectures and Refutations* — Karl Popper. Crescimento do conhecimento.
+- [ ] **0462.** *The Open Society and Its Enemies* — Karl Popper. Crítica ao historicismo totalitário.
+- [ ] **0463.** *Against Method* — Paul Feyerabend. Anarquismo epistemológico (contraponto).
+- [ ] **0464.** *Criticism and the Growth of Knowledge* — Imre Lakatos & Alan Musgrave (eds.). Debate Kuhn-Popper.
+- [ ] **0465.** *Word and Object* — W. V. O. Quine. Tradução e ontologia.
+- [ ] **0466.** *Naming and Necessity* — Saul Kripke. Referência e necessidade.
+- [ ] **0467.** *The Concept of Mind* — Gilbert Ryle. Crítica ao dualismo.
+- [ ] **0468.** *Being and Nothingness* — Jean-Paul Sartre. Liberdade radical.
+- [ ] **0469.** *Existentialism Is a Humanism* — Jean-Paul Sartre. Existencialismo acessível.
+- [ ] **0470.** *The Myth of Sisyphus* — Albert Camus. O absurdo.
+- [ ] **0471.** *The Rebel* — Albert Camus. Revolta e limites.
+- [ ] **0472.** *The Second Sex* — Simone de Beauvoir. Condição feminina.
+- [ ] **0473.** *The Ethics of Ambiguity* — Simone de Beauvoir. Ética existencialista.
+- [ ] **0474.** *The Human Condition* — Hannah Arendt. Trabalho, obra e ação.
+- [ ] **0475.** *Dialectic of Enlightenment* — Max Horkheimer & Theodor Adorno. Crítica da razão instrumental.
+- [ ] **0476.** *One-Dimensional Man* — Herbert Marcuse. Sociedade industrial avançada.
+- [ ] **0477.** *Discipline and Punish* — Michel Foucault. Poder e vigilância.
+- [ ] **0478.** *The Order of Things* — Michel Foucault. Arqueologia do saber.
+- [ ] **0479.** *The Postmodern Condition* — Jean-François Lyotard. Pós-modernidade (ler criticamente).
+- [ ] **0480.** *Philosophy and the Mirror of Nature* — Richard Rorty. Crítica à epistemologia.
+- [ ] **0481.** *A Theory of Justice* — John Rawls. Justiça como equidade.
+- [ ] **0482.** *Anarchy, State, and Utopia* — Robert Nozick. Libertarianismo filosófico.
+- [ ] **0483.** *After Virtue* — Alasdair MacIntyre. Retorno à ética da virtude.
+- [ ] **0484.** *Justice: What's the Right Thing to Do?* — Michael J. Sandel. Dilemas morais contemporâneos.
+- [ ] **0485.** *The Sources of the Self* — Charles Taylor. Formação da identidade moderna.
+- [ ] **0486.** *A Secular Age* — Charles Taylor. Secularização.
+- [ ] **0487.** *Practical Ethics* — Peter Singer. Ética aplicada.
+- [ ] **0488.** *Animal Liberation* — Peter Singer. Ética animal.
+- [ ] **0489.** *The Life You Can Save* — Peter Singer. Dever de ajudar.
+- [ ] **0490.** *Reasons and Persons* — Derek Parfit. Identidade pessoal e ética.
+- [ ] **0491.** *The View from Nowhere* — Thomas Nagel. Objetividade e subjetividade.
+- [ ] **0492.** *Mortal Questions* — Thomas Nagel. Ensaios sobre vida e morte.
+- [ ] **0493.** *Ethics and the Limits of Philosophy* — Bernard Williams. Crítica aos sistemas morais.
+- [ ] **0494.** *The Sovereignty of Good* — Iris Murdoch. Atenção moral.
+- [ ] **0495.** *The Fragility of Goodness* — Martha Nussbaum. Sorte e ética grega.
+- [ ] **0496.** *Moral Tribes* — Joshua Greene. Psicologia moral e utilitarismo.
+- [ ] **0497.** *The Moral Landscape* — Sam Harris. Ciência e moral (debate aberto).
+- [ ] **0498.** *Free Will* — Sam Harris. Contra o livre-arbítrio (curto).
+- [ ] **0499.** *Freedom Evolves* — Daniel C. Dennett. Compatibilismo.
+- [ ] **0500.** *Darwin's Dangerous Idea* — Daniel C. Dennett. Implicações filosóficas da evolução.
+- [ ] **0501.** *The Conscious Mind* — David J. Chalmers. O problema difícil da consciência.
+- [ ] **0502.** *Mind and Cosmos* — Thomas Nagel. Crítica ao materialismo.
+- [ ] **0503.** *Philosophy of Mind: Classical and Contemporary Readings* — David J. Chalmers (ed.). Antologia essencial.
+- [ ] **0504.** *Knowledge and Its Limits* — Timothy Williamson. Epistemologia contemporânea.
+- [ ] **0505.** *Epistemology: A Contemporary Introduction* — Robert Audi. Teoria do conhecimento.
+- [ ] **0506.** *Metaphysics: A Contemporary Introduction* — Michael J. Loux. Metafísica atual.
+- [ ] **0507.** *The Meaning of Life: A Very Short Introduction* — Terry Eagleton. Sentido da vida.
+- [ ] **0508.** *The Consolations of Philosophy* — Alain de Botton. Filosofia aplicada à vida.
+- [ ] **0509.** *Superintelligence* — Nick Bostrom. Filosofia do risco da IA.
+- [ ] **0510.** *Human Compatible* — Stuart Russell. Alinhamento de IA.
+- [ ] **0511.** *What We Owe the Future* — William MacAskill. Longo-prazismo (debatido).
+- [ ] **0512.** *The Precipice* — Toby Ord. Riscos existenciais.
+- [ ] **0513.** *The Denial of Death* — Ernest Becker. Mortalidade e cultura.
+- [ ] **0514.** *The Art of Loving* — Erich Fromm. Amor como prática.
+- [ ] **0515.** *Escape from Freedom* — Erich Fromm. Psicologia do autoritarismo.
+- [ ] **0516.** *To Have or to Be?* — Erich Fromm. Ter versus ser.
+- [ ] **0517.** *I and Thou* — Martin Buber. Relação dialógica.
+- [ ] **0518.** *Totality and Infinity* — Emmanuel Levinas. Ética do outro.
+- [ ] **0519.** *Truth and Method* — Hans-Georg Gadamer. Hermenêutica.
+- [ ] **0520.** *The Theory of Communicative Action, Vol. 1* — Jürgen Habermas. Razão comunicativa.
+- [ ] **0521.** *Pedagogy of the Oppressed* — Paulo Freire. Educação libertadora.
+- [ ] **0522.** *The Ethics of Belief* — W. K. Clifford. Dever de crer com evidência.
+- [ ] **0523.** *The Will to Believe* — William James. Resposta a Clifford.
+
+## Fase 6 — Literatura universal
+
+- [ ] **0524.** *The Epic of Gilgamesh* — Anônimo (trad. Andrew George). A história mais antiga da humanidade.
+- [ ] **0525.** *The Iliad* — Homero (trad. Robert Fagles). Fundação da literatura ocidental.
+- [ ] **0526.** *The Odyssey* — Homero (trad. Emily Wilson). Jornada e identidade.
+- [ ] **0527.** *Works and Days & Theogony* — Hesíodo. Mitologia e trabalho gregos.
+- [ ] **0528.** *The Oresteia* — Ésquilo. Da vingança à justiça.
+- [ ] **0529.** *Oedipus the King* — Sófocles. Destino e conhecimento.
+- [ ] **0530.** *Antigone* — Sófocles. Lei divina versus lei humana.
+- [ ] **0531.** *Medea* — Eurípides. Paixão e vingança.
+- [ ] **0532.** *The Bacchae* — Eurípides. Razão versus irracional.
+- [ ] **0533.** *Lysistrata* — Aristófanes. Comédia política.
+- [ ] **0534.** *The Aeneid* — Virgílio. Épico fundador de Roma.
+- [ ] **0535.** *Metamorphoses* — Ovídio. Mitologia clássica.
+- [ ] **0536.** *The Golden Ass* — Apuleio. Romance latino.
+- [ ] **0537.** *Beowulf* — Anônimo (trad. Seamus Heaney). Épico anglo-saxão.
+- [ ] **0538.** *The Song of Roland* — Anônimo. Épico medieval francês.
+- [ ] **0539.** *One Thousand and One Nights* — Anônimo. Narrativa oriental.
+- [ ] **0540.** *The Shahnameh* — Ferdowsi. Épico persa.
+- [ ] **0541.** *The Tale of Genji* — Murasaki Shikibu. Primeiro romance psicológico.
+- [ ] **0542.** *Journey to the West* — Wu Cheng'en. Clássico chinês.
+- [ ] **0543.** *Dream of the Red Chamber* — Cao Xueqin. Romance chinês supremo.
+- [ ] **0544.** *The Mahabharata* — Tradição hindu (trad. C. Rajagopalachari). Épico indiano.
+- [ ] **0545.** *The Ramayana* — Valmiki (trad. R. K. Narayan). Épico do dever.
+- [ ] **0546.** *The Divine Comedy* — Dante Alighieri. Síntese medieval.
+- [ ] **0547.** *The Decameron* — Giovanni Boccaccio. Narrativa renascentista.
+- [ ] **0548.** *The Canterbury Tales* — Geoffrey Chaucer. Sociedade medieval inglesa.
+- [ ] **0549.** *Sir Gawain and the Green Knight* — Anônimo (trad. Simon Armitage). Romance arturiano.
+- [ ] **0550.** *Gargantua and Pantagruel* — François Rabelais. Sátira humanista.
+- [ ] **0551.** *Don Quixote* — Miguel de Cervantes. Primeiro romance moderno.
+- [ ] **0552.** *The Lusiads* — Luís de Camões. Épico português.
+- [ ] **0553.** *Hamlet* — William Shakespeare. Consciência e dúvida.
+- [ ] **0554.** *King Lear* — William Shakespeare. Tragédia do poder e da velhice.
+- [ ] **0555.** *Macbeth* — William Shakespeare. Ambição.
+- [ ] **0556.** *Othello* — William Shakespeare. Ciúme e manipulação.
+- [ ] **0557.** *The Tempest* — William Shakespeare. Poder e perdão.
+- [ ] **0558.** *Julius Caesar* — William Shakespeare. Retórica política.
+- [ ] **0559.** *Sonnets* — William Shakespeare. Lírica inglesa.
+- [ ] **0560.** *Paradise Lost* — John Milton. Épico teológico.
+- [ ] **0561.** *The Pilgrim's Progress* — John Bunyan. Alegoria cristã.
+- [ ] **0562.** *Tartuffe* — Molière. Hipocrisia.
+- [ ] **0563.** *Phèdre* — Jean Racine. Tragédia clássica francesa.
+- [ ] **0564.** *Gulliver's Travels* — Jonathan Swift. Sátira da humanidade.
+- [ ] **0565.** *Robinson Crusoe* — Daniel Defoe. Individualismo moderno.
+- [ ] **0566.** *Tom Jones* — Henry Fielding. Romance inglês clássico.
+- [ ] **0567.** *Tristram Shandy* — Laurence Sterne. Experimentação narrativa.
+- [ ] **0568.** *Faust* — Johann Wolfgang von Goethe. Conhecimento e ambição.
+- [ ] **0569.** *The Sorrows of Young Werther* — Johann Wolfgang von Goethe. Romantismo.
+- [ ] **0570.** *Pride and Prejudice* — Jane Austen. Sociedade e caráter.
+- [ ] **0571.** *Emma* — Jane Austen. Autoengano.
+- [ ] **0572.** *Frankenstein* — Mary Shelley. Ciência e responsabilidade.
+- [ ] **0573.** *Jane Eyre* — Charlotte Brontë. Independência e moral.
+- [ ] **0574.** *Wuthering Heights* — Emily Brontë. Paixão destrutiva.
+- [ ] **0575.** *Middlemarch* — George Eliot. O grande romance inglês.
+- [ ] **0576.** *Great Expectations* — Charles Dickens. Ambição e classe.
+- [ ] **0577.** *Bleak House* — Charles Dickens. Crítica institucional.
+- [ ] **0578.** *A Tale of Two Cities* — Charles Dickens. Revolução Francesa ficcional.
+- [ ] **0579.** *Vanity Fair* — William Makepeace Thackeray. Sátira social.
+- [ ] **0580.** *Les Misérables* — Victor Hugo. Justiça e redenção.
+- [ ] **0581.** *The Red and the Black* — Stendhal. Ambição na França pós-napoleônica.
+- [ ] **0582.** *Père Goriot* — Honoré de Balzac. Dinheiro e sociedade.
+- [ ] **0583.** *Madame Bovary* — Gustave Flaubert. Realismo e ilusão.
+- [ ] **0584.** *The Count of Monte Cristo* — Alexandre Dumas. Vingança e justiça.
+- [ ] **0585.** *Germinal* — Émile Zola. Trabalho e luta de classes.
+- [ ] **0586.** *Eugene Onegin* — Aleksandr Pushkin. Romance em versos russo.
+- [ ] **0587.** *Dead Souls* — Nikolai Gogol. Sátira russa.
+- [ ] **0588.** *Fathers and Sons* — Ivan Turgenev. Niilismo e gerações.
+- [ ] **0589.** *Crime and Punishment* — Fiódor Dostoiévski. Culpa e moral.
+- [ ] **0590.** *Notes from Underground* — Fiódor Dostoiévski. Consciência moderna.
+- [ ] **0591.** *The Brothers Karamazov* — Fiódor Dostoiévski. Fé, dúvida e liberdade.
+- [ ] **0592.** *The Idiot* — Fiódor Dostoiévski. Bondade num mundo corrupto.
+- [ ] **0593.** *Demons* — Fiódor Dostoiévski. Radicalismo político.
+- [ ] **0594.** *War and Peace* — Liev Tolstói. História e destino.
+- [ ] **0595.** *Anna Karenina* — Liev Tolstói. Sociedade e desejo.
+- [ ] **0596.** *The Death of Ivan Ilyich* — Liev Tolstói. Morte e sentido.
+- [ ] **0597.** *Selected Stories* — Anton Tchekhov. Mestre do conto.
+- [ ] **0598.** *Moby-Dick* — Herman Melville. Obsessão e cosmos.
+- [ ] **0599.** *The Scarlet Letter* — Nathaniel Hawthorne. Culpa puritana.
+- [ ] **0600.** *Adventures of Huckleberry Finn* — Mark Twain. Raça e liberdade nos EUA.
+- [ ] **0601.** *Leaves of Grass* — Walt Whitman. Poesia democrática.
+- [ ] **0602.** *The Complete Poems* — Emily Dickinson. Lírica concentrada.
+- [ ] **0603.** *Tales of Mystery and Imagination* — Edgar Allan Poe. Conto moderno.
+- [ ] **0604.** *The Portrait of a Lady* — Henry James. Liberdade e escolha.
+- [ ] **0605.** *Heart of Darkness* — Joseph Conrad. Colonialismo e alma.
+- [ ] **0606.** *Nostromo* — Joseph Conrad. Política e capital.
+- [ ] **0607.** *Memórias Póstumas de Brás Cubas (The Posthumous Memoirs of Brás Cubas)* — Machado de Assis. Ironia brasileira universal.
+- [ ] **0608.** *Dom Casmurro* — Machado de Assis. Narrador não confiável.
+- [ ] **0609.** *Grande Sertão: Veredas (The Devil to Pay in the Backlands)* — João Guimarães Rosa. Épico do sertão.
+- [ ] **0610.** *Vidas Secas (Barren Lives)* — Graciliano Ramos. Miséria e dignidade.
+- [ ] **0611.** *A Hora da Estrela (The Hour of the Star)* — Clarice Lispector. Existência e linguagem.
+- [ ] **0612.** *The Picture of Dorian Gray* — Oscar Wilde. Estética e moral.
+- [ ] **0613.** *A Doll's House* — Henrik Ibsen. Autonomia.
+- [ ] **0614.** *The Cherry Orchard* — Anton Tchekhov. Fim de uma era.
+- [ ] **0615.** *Buddenbrooks* — Thomas Mann. Decadência familiar.
+- [ ] **0616.** *The Magic Mountain* — Thomas Mann. Tempo, doença e ideias.
+- [ ] **0617.** *The Trial* — Franz Kafka. Burocracia e culpa.
+- [ ] **0618.** *The Metamorphosis* — Franz Kafka. Alienação.
+- [ ] **0619.** *In Search of Lost Time: Swann's Way* — Marcel Proust. Memória e tempo.
+- [ ] **0620.** *Ulysses* — James Joyce. Revolução do romance.
+- [ ] **0621.** *Dubliners* — James Joyce. Paralisia moral.
+- [ ] **0622.** *Mrs Dalloway* — Virginia Woolf. Fluxo de consciência.
+- [ ] **0623.** *To the Lighthouse* — Virginia Woolf. Tempo e percepção.
+- [ ] **0624.** *A Room of One's Own* — Virginia Woolf. Mulheres e criação.
+- [ ] **0625.** *The Waste Land and Other Poems* — T. S. Eliot. Modernismo poético.
+- [ ] **0626.** *The Great Gatsby* — F. Scott Fitzgerald. Sonho americano.
+- [ ] **0627.** *The Sound and the Fury* — William Faulkner. Tempo e decadência.
+- [ ] **0628.** *The Sun Also Rises* — Ernest Hemingway. Geração perdida.
+- [ ] **0629.** *The Grapes of Wrath* — John Steinbeck. Depressão e injustiça.
+- [ ] **0630.** *Brave New World* — Aldous Huxley. Distopia do prazer.
+- [ ] **0631.** *Nineteen Eighty-Four* — George Orwell. Totalitarismo e verdade.
+- [ ] **0632.** *Animal Farm* — George Orwell. Revolução traída.
+- [ ] **0633.** *Homage to Catalonia* — George Orwell. Guerra Civil Espanhola.
+- [ ] **0634.** *Darkness at Noon* — Arthur Koestler. Expurgos stalinistas.
+- [ ] **0635.** *The Master and Margarita* — Mikhail Bulgákov. Sátira soviética.
+- [ ] **0636.** *Doctor Zhivago* — Boris Pasternak. Indivíduo e revolução.
+- [ ] **0637.** *One Day in the Life of Ivan Denisovich* — Aleksandr Solzhenitsyn. Gulag no cotidiano.
+- [ ] **0638.** *Life and Fate* — Vasily Grossman. Stalingrado e totalitarismo.
+- [ ] **0639.** *The Stranger* — Albert Camus. O absurdo narrado.
+- [ ] **0640.** *The Plague* — Albert Camus. Solidariedade na crise.
+- [ ] **0641.** *Nausea* — Jean-Paul Sartre. Existência bruta.
+- [ ] **0642.** *The Man Without Qualities* — Robert Musil. Crise da modernidade.
+- [ ] **0643.** *Ficciones* — Jorge Luis Borges. Labirintos filosóficos.
+- [ ] **0644.** *One Hundred Years of Solitude* — Gabriel García Márquez. História latino-americana mítica.
+- [ ] **0645.** *Pedro Páramo* — Juan Rulfo. Memória e morte.
+- [ ] **0646.** *The Labyrinth of Solitude* — Octavio Paz. Identidade mexicana.
+- [ ] **0647.** *Things Fall Apart* — Chinua Achebe. Colonização vista da África.
+- [ ] **0648.** *Midnight's Children* — Salman Rushdie. Índia independente.
+- [ ] **0649.** *Beloved* — Toni Morrison. Memória da escravidão.
+- [ ] **0650.** *Invisible Man* — Ralph Ellison. Invisibilidade racial.
+- [ ] **0651.** *To Kill a Mockingbird* — Harper Lee. Justiça e raça.
+- [ ] **0652.** *Lord of the Flies* — William Golding. Natureza humana.
+- [ ] **0653.** *The Lord of the Rings* — J. R. R. Tolkien. Mito moderno.
+- [ ] **0654.** *Fahrenheit 451* — Ray Bradbury. Livros e liberdade.
+- [ ] **0655.** *Foundation* — Isaac Asimov. Ficção científica e história.
+- [ ] **0656.** *Dune* — Frank Herbert. Ecologia, religião e poder.
+- [ ] **0657.** *The Left Hand of Darkness* — Ursula K. Le Guin. Gênero e antropologia.
+- [ ] **0658.** *The Dispossessed* — Ursula K. Le Guin. Utopia ambígua.
+- [ ] **0659.** *Solaris* — Stanisław Lem. Limites do conhecimento.
+- [ ] **0660.** *Blindness* — José Saramago. Colapso social.
+- [ ] **0661.** *The Name of the Rose* — Umberto Eco. Conhecimento medieval em mistério.
+- [ ] **0662.** *If on a Winter's Night a Traveler* — Italo Calvino. Metaficção.
+- [ ] **0663.** *Invisible Cities* — Italo Calvino. Imaginação e cidades.
+- [ ] **0664.** *The Unbearable Lightness of Being* — Milan Kundera. Peso e leveza.
+- [ ] **0665.** *The Remains of the Day* — Kazuo Ishiguro. Dever e autoengano.
+- [ ] **0666.** *Never Let Me Go* — Kazuo Ishiguro. Humanidade e ética.
+- [ ] **0667.** *Blood Meridian* — Cormac McCarthy. Violência e história.
+- [ ] **0668.** *The Road* — Cormac McCarthy. Esperança no apocalipse.
+- [ ] **0669.** *Snow Country* — Yasunari Kawabata. Estética japonesa.
+- [ ] **0670.** *The Book of Disquiet* — Fernando Pessoa. Interioridade e heterônimos.
+- [ ] **0671.** *Collected Poems* — Fernando Pessoa. Poesia portuguesa moderna.
+- [ ] **0672.** *The Leopard* — Giuseppe Tomasi di Lampedusa. Mudar para permanecer.
+- [ ] **0673.** *Siddhartha* — Hermann Hesse. Busca espiritual.
+- [ ] **0674.** *The Glass Bead Game* — Hermann Hesse. Intelecto e vida.
+- [ ] **0675.** *All the King's Men* — Robert Penn Warren. Poder e corrupção.
+- [ ] **0676.** *Catch-22* — Joseph Heller. Absurdo da guerra.
+- [ ] **0677.** *Slaughterhouse-Five* — Kurt Vonnegut. Trauma e guerra.
+- [ ] **0678.** *Collected Poems* — W. B. Yeats. Poesia moderna irlandesa.
+- [ ] **0679.** *Duino Elegies* — Rainer Maria Rilke. Poesia metafísica.
+- [ ] **0680.** *Letters to a Young Poet* — Rainer Maria Rilke. Vocação e solidão.
+- [ ] **0681.** *Waiting for Godot* — Samuel Beckett. Teatro do absurdo.
+- [ ] **0682.** *Death of a Salesman* — Arthur Miller. Sonho americano falido.
+- [ ] **0683.** *The Norton Anthology of Poetry* — Margaret Ferguson et al. (eds.). Panorama poético.
+- [ ] **0684.** *The Western Canon* — Harold Bloom. Por que ler os clássicos.
+- [ ] **0685.** *Why Read the Classics?* — Italo Calvino. Defesa dos clássicos.
+- [ ] **0686.** *Mimesis* — Erich Auerbach. Representação da realidade na literatura.
+- [ ] **0687.** *Aspects of the Novel* — E. M. Forster. Teoria do romance.
+- [ ] **0688.** *The Hero with a Thousand Faces* — Joseph Campbell. Estrutura dos mitos (ler criticamente).
+
+## Fase 7 — Ciências humanas: psicologia, sociologia, economia, política e direito
+
+- [ ] **0689.** *Psychology* — David G. Myers & C. Nathan DeWall. Psicologia geral baseada em evidência.
+- [ ] **0690.** *The Social Animal* — Elliot Aronson. Comportamento social.
+- [ ] **0691.** *Obedience to Authority* — Stanley Milgram. Autoridade e obediência.
+- [ ] **0692.** *The Lucifer Effect* — Philip Zimbardo. Situação e maldade (estudo hoje criticado).
+- [ ] **0693.** *Man and His Symbols* — Carl G. Jung. Psicologia analítica (histórica, não científica).
+- [ ] **0694.** *Civilization and Its Discontents* — Sigmund Freud. Freud cultural (valor histórico).
+- [ ] **0695.** *The Interpretation of Dreams* — Sigmund Freud. Marco histórico da psicologia (não científico).
+- [ ] **0696.** *Attached* — Amir Levine & Rachel Heller. Teoria do apego aplicada.
+- [ ] **0697.** *The Blank Slate* — Steven Pinker. Natureza humana e genética.
+- [ ] **0698.** *How the Mind Works* — Steven Pinker. Psicologia evolutiva.
+- [ ] **0699.** *The Language Instinct* — Steven Pinker. Linguagem como instinto.
+- [ ] **0700.** *The Stuff of Thought* — Steven Pinker. Linguagem e cognição.
+- [ ] **0701.** *The Nurture Assumption* — Judith Rich Harris. Influência dos pares.
+- [ ] **0702.** *Stumbling on Happiness* — Daniel Gilbert. Erros de previsão afetiva.
+- [ ] **0703.** *The Happiness Hypothesis* — Jonathan Haidt. Sabedoria antiga e ciência.
+- [ ] **0704.** *Flow* — Mihaly Csikszentmihalyi. Experiência ótima.
+- [ ] **0705.** *Predictably Irrational* — Dan Ariely. Economia comportamental acessível.
+- [ ] **0706.** *Nudge* — Richard H. Thaler & Cass R. Sunstein. Arquitetura de escolhas.
+- [ ] **0707.** *Misbehaving* — Richard H. Thaler. Origem da economia comportamental.
+- [ ] **0708.** *Noise* — Daniel Kahneman, Olivier Sibony & Cass Sunstein. Variabilidade no julgamento.
+- [ ] **0709.** *The Elephant in the Brain* — Kevin Simler & Robin Hanson. Motivos ocultos.
+- [ ] **0710.** *The Social Conquest of Earth* — Edward O. Wilson. Evolução da sociabilidade.
+- [ ] **0711.** *Sociobiology* — Edward O. Wilson. Biologia do comportamento social.
+- [ ] **0712.** *Consilience* — Edward O. Wilson. Unidade do conhecimento.
+- [ ] **0713.** *The Secret of Our Success* — Joseph Henrich. Evolução cultural.
+- [ ] **0714.** *The WEIRDest People in the World* — Joseph Henrich. Psicologia ocidental peculiar.
+- [ ] **0715.** *Not by Genes Alone* — Peter J. Richerson & Robert Boyd. Cultura e evolução.
+- [ ] **0716.** *Catching Fire* — Richard Wrangham. Cozinhar e evolução humana.
+- [ ] **0717.** *Chimpanzee Politics* — Frans de Waal. Política entre primatas.
+- [ ] **0718.** *The Age of Empathy* — Frans de Waal. Raízes da empatia.
+- [ ] **0719.** *Patterns of Culture* — Ruth Benedict. Antropologia cultural.
+- [ ] **0720.** *Argonauts of the Western Pacific* — Bronisław Malinowski. Etnografia fundadora.
+- [ ] **0721.** *The Gift* — Marcel Mauss. Reciprocidade.
+- [ ] **0722.** *Tristes Tropiques* — Claude Lévi-Strauss. Antropologia no Brasil.
+- [ ] **0723.** *The Interpretation of Cultures* — Clifford Geertz. Cultura como texto.
+- [ ] **0724.** *Coming of Age in Samoa* — Margaret Mead. Clássico (ler junto às críticas de Freeman).
+- [ ] **0725.** *The Forest People* — Colin M. Turnbull. Caçadores-coletores.
+- [ ] **0726.** *Debt: The First 5,000 Years* — David Graeber. Antropologia da dívida (debatido).
+- [ ] **0727.** *The Rules of Sociological Method* — Émile Durkheim. Fatos sociais.
+- [ ] **0728.** *Suicide* — Émile Durkheim. Sociologia empírica fundadora.
+- [ ] **0729.** *The Division of Labor in Society* — Émile Durkheim. Solidariedade social.
+- [ ] **0730.** *The Protestant Ethic and the Spirit of Capitalism* — Max Weber. Religião e economia.
+- [ ] **0731.** *Economy and Society (Selections)* — Max Weber. Poder, burocracia e legitimidade.
+- [ ] **0732.** *Politics as a Vocation* — Max Weber. Ética da responsabilidade.
+- [ ] **0733.** *The Metropolis and Mental Life* — Georg Simmel. Vida urbana.
+- [ ] **0734.** *The Presentation of Self in Everyday Life* — Erving Goffman. Interação social.
+- [ ] **0735.** *Asylums* — Erving Goffman. Instituições totais.
+- [ ] **0736.** *The Social Construction of Reality* — Peter L. Berger & Thomas Luckmann. Sociologia do conhecimento.
+- [ ] **0737.** *Invitation to Sociology* — Peter L. Berger. Pensar sociologicamente.
+- [ ] **0738.** *The Sociological Imagination* — C. Wright Mills. Biografia e história.
+- [ ] **0739.** *The Power Elite* — C. Wright Mills. Poder nos EUA.
+- [ ] **0740.** *Distinction* — Pierre Bourdieu. Gosto e classe.
+- [ ] **0741.** *Bowling Alone* — Robert D. Putnam. Capital social.
+- [ ] **0742.** *The Lonely Crowd* — David Riesman. Caráter americano.
+- [ ] **0743.** *Democracy in America* — Alexis de Tocqueville. Anatomia da democracia.
+- [ ] **0744.** *Imagined Communities* — Benedict Anderson. Origem dos nacionalismos.
+- [ ] **0745.** *Nations and Nationalism* — Ernest Gellner. Nacionalismo moderno.
+- [ ] **0746.** *Liquid Modernity* — Zygmunt Bauman. Modernidade fluida.
+- [ ] **0747.** *Modernity and the Holocaust* — Zygmunt Bauman. Burocracia e genocídio.
+- [ ] **0748.** *The Culture of Narcissism* — Christopher Lasch. Crítica cultural.
+- [ ] **0749.** *Amusing Ourselves to Death* — Neil Postman. Mídia e discurso público.
+- [ ] **0750.** *Technopoly* — Neil Postman. Cultura submetida à técnica.
+- [ ] **0751.** *Understanding Media* — Marshall McLuhan. O meio é a mensagem.
+- [ ] **0752.** *Public Opinion* — Walter Lippmann. Opinião pública e mídia.
+- [ ] **0753.** *Manufacturing Consent* — Edward S. Herman & Noam Chomsky. Modelo de propaganda (ler criticamente).
+- [ ] **0754.** *Propaganda* — Edward Bernays. Origem das relações públicas.
+- [ ] **0755.** *The True Believer* — Eric Hoffer. Psicologia dos movimentos de massa.
+- [ ] **0756.** *The Crowd* — Gustave Le Bon. Psicologia das multidões (histórico).
+- [ ] **0757.** *Evicted* — Matthew Desmond. Pobreza urbana.
+- [ ] **0758.** *Poverty, by America* — Matthew Desmond. Causas estruturais da pobreza.
+- [ ] **0759.** *The Truly Disadvantaged* — William Julius Wilson. Raça e classe.
+- [ ] **0760.** *Hillbilly Elegy* — J. D. Vance. Classe trabalhadora branca (relato pessoal).
+- [ ] **0761.** *Coming Apart* — Charles Murray. Divisão de classes nos EUA.
+- [ ] **0762.** *Strangers in Their Own Land* — Arlie Russell Hochschild. Empatia política.
+- [ ] **0763.** *The Wealth of Nations* — Adam Smith. Fundação da economia.
+- [ ] **0764.** *The Theory of Moral Sentiments* — Adam Smith. Moral e simpatia.
+- [ ] **0765.** *Principles of Political Economy and Taxation* — David Ricardo. Vantagem comparativa.
+- [ ] **0766.** *Capital, Volume I* — Karl Marx. Crítica da economia política.
+- [ ] **0767.** *The Theory of the Leisure Class* — Thorstein Veblen. Consumo conspícuo.
+- [ ] **0768.** *The General Theory of Employment, Interest and Money* — John Maynard Keynes. Macroeconomia moderna.
+- [ ] **0769.** *The Road to Serfdom* — Friedrich A. Hayek. Crítica ao planejamento central.
+- [ ] **0770.** *The Use of Knowledge in Society* — Friedrich A. Hayek. Preços como informação.
+- [ ] **0771.** *Capitalism, Socialism and Democracy* — Joseph A. Schumpeter. Destruição criativa.
+- [ ] **0772.** *Capitalism and Freedom* — Milton Friedman. Liberalismo econômico.
+- [ ] **0773.** *Free to Choose* — Milton & Rose Friedman. Mercado e liberdade.
+- [ ] **0774.** *The Affluent Society* — John Kenneth Galbraith. Riqueza privada e pobreza pública.
+- [ ] **0775.** *The Worldly Philosophers* — Robert L. Heilbroner. História do pensamento econômico.
+- [ ] **0776.** *Economics in One Lesson* — Henry Hazlitt. Efeitos invisíveis das políticas.
+- [ ] **0777.** *Basic Economics* — Thomas Sowell. Economia sem equações.
+- [ ] **0778.** *Principles of Economics* — N. Gregory Mankiw. Livro-texto padrão.
+- [ ] **0779.** *Economics* — Paul Samuelson & William Nordhaus. Síntese neoclássica.
+- [ ] **0780.** *The Armchair Economist* — Steven E. Landsburg. Incentivos no cotidiano.
+- [ ] **0781.** *Freakonomics* — Steven D. Levitt & Stephen J. Dubner. Economia aplicada curiosa.
+- [ ] **0782.** *Development as Freedom* — Amartya Sen. Desenvolvimento e capacidades.
+- [ ] **0783.** *Poor Economics* — Abhijit V. Banerjee & Esther Duflo. Pobreza com experimentos.
+- [ ] **0784.** *Why Nations Fail* — Daron Acemoglu & James A. Robinson. Instituições e prosperidade.
+- [ ] **0785.** *The Narrow Corridor* — Daron Acemoglu & James A. Robinson. Estado e liberdade.
+- [ ] **0786.** *Capital in the Twenty-First Century* — Thomas Piketty. Desigualdade de longo prazo.
+- [ ] **0787.** *The Price of Inequality* — Joseph E. Stiglitz. Desigualdade e política.
+- [ ] **0788.** *The Mystery of Capital* — Hernando de Soto. Propriedade e desenvolvimento.
+- [ ] **0789.** *Manias, Panics, and Crashes* — Charles P. Kindleberger & Robert Aliber. História das crises financeiras.
+- [ ] **0790.** *This Time Is Different* — Carmen M. Reinhart & Kenneth S. Rogoff. Oito séculos de crises.
+- [ ] **0791.** *Lords of Finance* — Liaquat Ahamed. Bancos centrais e Grande Depressão.
+- [ ] **0792.** *The Ascent of Money* — Niall Ferguson. História financeira.
+- [ ] **0793.** *A Random Walk Down Wall Street* — Burton G. Malkiel. Mercados eficientes.
+- [ ] **0794.** *The Intelligent Investor* — Benjamin Graham. Investimento racional.
+- [ ] **0795.** *The Big Short* — Michael Lewis. Crise de 2008.
+- [ ] **0796.** *Governing the Commons* — Elinor Ostrom. Gestão de bens comuns.
+- [ ] **0797.** *The Logic of Collective Action* — Mancur Olson. Grupos e interesses.
+- [ ] **0798.** *Seeing Like a State* — James C. Scott. Falhas do planejamento estatal.
+- [ ] **0799.** *The Origins of Political Order* — Francis Fukuyama. Formação do Estado.
+- [ ] **0800.** *The End of History and the Last Man* — Francis Fukuyama. Liberalismo pós-Guerra Fria.
+- [ ] **0801.** *The Clash of Civilizations* — Samuel P. Huntington. Conflito cultural (debatido).
+- [ ] **0802.** *Political Order in Changing Societies* — Samuel P. Huntington. Modernização e instabilidade.
+- [ ] **0803.** *Politics Among Nations* — Hans J. Morgenthau. Realismo internacional.
+- [ ] **0804.** *The Tragedy of Great Power Politics* — John J. Mearsheimer. Realismo ofensivo.
+- [ ] **0805.** *Man, the State, and War* — Kenneth N. Waltz. Causas da guerra.
+- [ ] **0806.** *On War* — Carl von Clausewitz. Teoria da guerra.
+- [ ] **0807.** *Essence of Decision* — Graham Allison & Philip Zelikow. Crise dos mísseis e decisão.
+- [ ] **0808.** *How Democracies Die* — Steven Levitsky & Daniel Ziblatt. Erosão democrática.
+- [ ] **0809.** *On Tyranny* — Timothy Snyder. Lições contra o autoritarismo.
+- [ ] **0810.** *Polyarchy* — Robert A. Dahl. Teoria da democracia.
+- [ ] **0811.** *Capitalism and Slavery* — Eric Williams. Economia da escravidão.
+- [ ] **0812.** *The Conservative Mind* — Russell Kirk. Tradição conservadora.
+- [ ] **0813.** *Conservatism: The Fight for a Tradition* — Edmund Fawcett. História do conservadorismo.
+- [ ] **0814.** *Liberalism: The Life of an Idea* — Edmund Fawcett. História do liberalismo.
+- [ ] **0815.** *Why Socialism?* — Albert Einstein. Ensaio curto socialista democrático.
+- [ ] **0816.** *Socialism: A Very Short Introduction* — Michael Newman. Socialismo equilibrado.
+- [ ] **0817.** *The Conflict of Visions* — Thomas Sowell. Visões restrita e irrestrita.
+- [ ] **0818.** *The Constitution of Liberty* — Friedrich A. Hayek. Estado de direito liberal.
+- [ ] **0819.** *The Rule of Law* — Tom Bingham. Estado de direito explicado.
+- [ ] **0820.** *The Concept of Law* — H. L. A. Hart. Filosofia do direito.
+- [ ] **0821.** *Law's Empire* — Ronald Dworkin. Direito como integridade.
+- [ ] **0822.** *The Common Law* — Oliver Wendell Holmes Jr.. Direito como experiência.
+- [ ] **0823.** *On Crimes and Punishments* — Cesare Beccaria. Reforma penal iluminista.
+- [ ] **0824.** *The Universal Declaration of Human Rights* — Nações Unidas. Documento fundador de direitos.
+- [ ] **0825.** *The Idea of Justice* — Amartya Sen. Justiça comparativa.
+- [ ] **0826.** *Bureaucracy* — James Q. Wilson. Como agências funcionam.
+- [ ] **0827.** *The Tyranny of Merit* — Michael J. Sandel. Crítica à meritocracia.
+- [ ] **0828.** *Moral Man and Immoral Society* — Reinhold Niebuhr. Ética e política.
+- [ ] **0829.** *Rules for Radicals* — Saul Alinsky. Organização política (histórico).
+- [ ] **0830.** *The Wisdom of Crowds* — James Surowiecki. Inteligência coletiva.
+- [ ] **0831.** *The World Until Yesterday* — Jared Diamond. Sociedades tradicionais.
+- [ ] **0832.** *Thinking in Systems* — Donella H. Meadows. Pensamento sistêmico.
+- [ ] **0833.** *The Limits to Growth* — Donella Meadows et al.. Modelagem de limites planetários.
+- [ ] **0834.** *Doughnut Economics* — Kate Raworth. Economia ecológica (debatido).
+- [ ] **0835.** *Linguistics: An Introduction* — Andrew Radford et al.. Linguística científica.
+- [ ] **0836.** *Course in General Linguistics* — Ferdinand de Saussure. Fundação da linguística.
+- [ ] **0837.** *Syntactic Structures* — Noam Chomsky. Gramática gerativa.
+- [ ] **0838.** *The Unfolding of Language* — Guy Deutscher. Evolução das línguas.
+- [ ] **0839.** *Through the Language Glass* — Guy Deutscher. Língua e percepção.
+- [ ] **0840.** *Metaphors We Live By* — George Lakoff & Mark Johnson. Metáfora e cognição.
+- [ ] **0841.** *The Origins of the Modern Mind* — Merlin Donald. Evolução cognitiva.
+- [ ] **0842.** *Deschooling Society* — Ivan Illich. Crítica à escolarização.
+- [ ] **0843.** *The Death and Life of Great American Cities* — Jane Jacobs. Urbanismo vivo.
+- [ ] **0844.** *Triumph of the City* — Edward Glaeser. Cidades e prosperidade.
+
+## Fase 8 — Religião e teologia
+
+- [ ] **0845.** *A History of God* — Karen Armstrong. Monoteísmos em perspectiva histórica.
+- [ ] **0846.** *The World's Religions* — Huston Smith. Panorama das grandes religiões.
+- [ ] **0847.** *The Sacred and the Profane* — Mircea Eliade. Natureza da experiência religiosa.
+- [ ] **0848.** *The Golden Bough* — James George Frazer. Antropologia da religião (histórico).
+- [ ] **0849.** *The Elementary Forms of Religious Life* — Émile Durkheim. Sociologia da religião.
+- [ ] **0850.** *Religion Explained* — Pascal Boyer. Ciência cognitiva da religião.
+- [ ] **0851.** *Breaking the Spell* — Daniel C. Dennett. Religião como fenômeno natural.
+- [ ] **0852.** *The Bible (New Oxford Annotated Bible)* — Vários (ed. Michael Coogan). Texto bíblico com notas acadêmicas.
+- [ ] **0853.** *How to Read the Bible* — James L. Kugel. Leitura crítica e tradicional.
+- [ ] **0854.** *Who Wrote the Bible?* — Richard Elliott Friedman. Hipótese documental.
+- [ ] **0855.** *The Bible Unearthed* — Israel Finkelstein & Neil Asher Silberman. Arqueologia bíblica.
+- [ ] **0856.** *Misquoting Jesus* — Bart D. Ehrman. Transmissão do Novo Testamento.
+- [ ] **0857.** *How Jesus Became God* — Bart D. Ehrman. Origens da cristologia.
+- [ ] **0858.** *Jesus of Nazareth* — Joseph Ratzinger (Bento XVI). Visão teológica católica.
+- [ ] **0859.** *The Historical Figure of Jesus* — E. P. Sanders. Jesus histórico acadêmico.
+- [ ] **0860.** *Paul: A Biography* — N. T. Wright. Apóstolo Paulo.
+- [ ] **0861.** *Confessions* — Agostinho de Hipona. Autobiografia espiritual fundadora.
+- [ ] **0862.** *The City of God* — Agostinho de Hipona. Teologia da história.
+- [ ] **0863.** *The Rule of Saint Benedict* — Bento de Núrsia. Vida monástica.
+- [ ] **0864.** *Proslogion* — Anselmo de Cantuária. Argumento ontológico.
+- [ ] **0865.** *The Imitation of Christ* — Tomás de Kempis. Devoção medieval.
+- [ ] **0866.** *The Cloud of Unknowing* — Anônimo. Mística cristã.
+- [ ] **0867.** *Dark Night of the Soul* — João da Cruz. Mística espanhola.
+- [ ] **0868.** *Interior Castle* — Teresa de Ávila. Oração e interioridade.
+- [ ] **0869.** *The Spiritual Exercises* — Inácio de Loyola. Método jesuíta.
+- [ ] **0870.** *The Freedom of a Christian* — Martinho Lutero. Teologia da Reforma.
+- [ ] **0871.** *Institutes of the Christian Religion* — João Calvino. Teologia reformada.
+- [ ] **0872.** *Mere Christianity* — C. S. Lewis. Defesa acessível do cristianismo.
+- [ ] **0873.** *The Problem of Pain* — C. S. Lewis. Teodiceia.
+- [ ] **0874.** *Orthodoxy* — G. K. Chesterton. Apologética paradoxal.
+- [ ] **0875.** *The Cost of Discipleship* — Dietrich Bonhoeffer. Fé sob o nazismo.
+- [ ] **0876.** *The Seven Storey Mountain* — Thomas Merton. Conversão moderna.
+- [ ] **0877.** *Systematic Theology, Vol. 1* — Paul Tillich. Teologia existencial.
+- [ ] **0878.** *Dynamics of Faith* — Paul Tillich. O que é fé.
+- [ ] **0879.** *Introduction to Christianity* — Joseph Ratzinger. Credo explicado.
+- [ ] **0880.** *A History of Christianity* — Diarmaid MacCulloch. Três mil anos de cristianismo.
+- [ ] **0881.** *The Quran (The Study Quran)* — Seyyed Hossein Nasr (ed.). Alcorão com comentário acadêmico.
+- [ ] **0882.** *Muhammad: His Life Based on the Earliest Sources* — Martin Lings. Biografia do Profeta.
+- [ ] **0883.** *No God but God* — Reza Aslan. Islã acessível.
+- [ ] **0884.** *Islam: A Short History* — Karen Armstrong. Islã sintético.
+- [ ] **0885.** *The Conference of the Birds* — Farid ud-Din Attar. Mística sufi.
+- [ ] **0886.** *The Masnavi* — Rumi. Poesia sufi.
+- [ ] **0887.** *The Jewish Study Bible (Tanakh)* — Adele Berlin & Marc Zvi Brettler (eds.). Bíblia hebraica comentada.
+- [ ] **0888.** *Essential Talmud* — Adin Steinsaltz. Introdução ao Talmude.
+- [ ] **0889.** *The Sabbath* — Abraham Joshua Heschel. Tempo sagrado.
+- [ ] **0890.** *God in Search of Man* — Abraham Joshua Heschel. Filosofia judaica.
+- [ ] **0891.** *What the Buddha Taught* — Walpola Rahula. Budismo essencial.
+- [ ] **0892.** *In the Buddha's Words* — Bhikkhu Bodhi (ed.). Antologia do cânone páli.
+- [ ] **0893.** *Zen Mind, Beginner's Mind* — Shunryu Suzuki. Zen prático.
+- [ ] **0894.** *Why Buddhism Is True* — Robert Wright. Budismo e psicologia evolutiva.
+- [ ] **0895.** *Hinduism: A Very Short Introduction* — Kim Knott. Hinduísmo.
+- [ ] **0896.** *Chinese Religions: Beliefs and Practices* — Jeaneane Fowler. Religiões chinesas.
+- [ ] **0897.** *Philosophy of Religion: An Introduction* — William L. Rowe. Argumentos sobre Deus.
+- [ ] **0898.** *The Existence of God* — Richard Swinburne. Teísmo filosófico rigoroso.
+- [ ] **0899.** *The Miracle of Theism* — J. L. Mackie. Ateísmo filosófico rigoroso.
+- [ ] **0900.** *The God Delusion* — Richard Dawkins. Crítica popular à religião.
+- [ ] **0901.** *The Experience of God* — David Bentley Hart. Resposta teológica clássica.
+- [ ] **0902.** *Religion Within the Bounds of Bare Reason* — Immanuel Kant. Religião racional.
+- [ ] **0903.** *The Future of an Illusion* — Sigmund Freud. Crítica psicológica à religião.
+- [ ] **0904.** *The Varieties of Scientific Experience* — Carl Sagan. Ciência e o sagrado.
+
+## Fase 9 — Computação e tecnologia
+
+- [ ] **0905.** *Code: The Hidden Language of Computer Hardware and Software* — Charles Petzold. Do bit ao computador.
+- [ ] **0906.** *The Elements of Computing Systems* — Noam Nisan & Shimon Schocken. Construir um computador do zero.
+- [ ] **0907.** *Structure and Interpretation of Computer Programs* — Harold Abelson & Gerald Jay Sussman. Pensamento computacional profundo.
+- [ ] **0908.** *Introduction to Algorithms* — Thomas H. Cormen et al.. Algoritmos de referência.
+- [ ] **0909.** *Algorithms to Live By* — Brian Christian & Tom Griffiths. Algoritmos aplicados à vida.
+- [ ] **0910.** *The Art of Computer Programming, Vol. 1* — Donald E. Knuth. Fundamentos rigorosos.
+- [ ] **0911.** *Introduction to the Theory of Computation* — Michael Sipser. Computabilidade e complexidade.
+- [ ] **0912.** *Computer Systems: A Programmer's Perspective* — Randal E. Bryant & David R. O'Hallaron. Como o código roda no hardware.
+- [ ] **0913.** *Operating Systems: Three Easy Pieces* — Remzi & Andrea Arpaci-Dusseau. Sistemas operacionais.
+- [ ] **0914.** *Computer Networking: A Top-Down Approach* — James F. Kurose & Keith W. Ross. Redes.
+- [ ] **0915.** *Designing Data-Intensive Applications* — Martin Kleppmann. Sistemas distribuídos modernos.
+- [ ] **0916.** *The Pragmatic Programmer* — David Thomas & Andrew Hunt. Ofício do programador.
+- [ ] **0917.** *The Mythical Man-Month* — Frederick P. Brooks Jr.. Gestão de software.
+- [ ] **0918.** *Clean Code* — Robert C. Martin. Legibilidade de código (ler criticamente).
+- [ ] **0919.** *A Philosophy of Software Design* — John Ousterhout. Complexidade em software.
+- [ ] **0920.** *Refactoring* — Martin Fowler. Melhorar código existente.
+- [ ] **0921.** *Design Patterns* — Erich Gamma et al.. Padrões de projeto.
+- [ ] **0922.** *The Design of Everyday Things* — Don Norman. Design centrado no humano.
+- [ ] **0923.** *Artificial Intelligence: A Modern Approach* — Stuart Russell & Peter Norvig. IA de referência.
+- [ ] **0924.** *Deep Learning* — Ian Goodfellow, Yoshua Bengio & Aaron Courville. Aprendizado profundo.
+- [ ] **0925.** *Pattern Recognition and Machine Learning* — Christopher M. Bishop. Aprendizado de máquina bayesiano.
+- [ ] **0926.** *The Alignment Problem* — Brian Christian. Ética e segurança da IA.
+- [ ] **0927.** *Computing Machinery and Intelligence* — Alan Turing. Artigo fundador da IA.
+- [ ] **0928.** *The Innovators* — Walter Isaacson. História da revolução digital.
+- [ ] **0929.** *Turing's Cathedral* — George Dyson. Origem dos computadores.
+- [ ] **0930.** *Alan Turing: The Enigma* — Andrew Hodges. Biografia de Turing.
+- [ ] **0931.** *The Soul of a New Machine* — Tracy Kidder. Engenharia de computadores narrada.
+- [ ] **0932.** *Hackers: Heroes of the Computer Revolution* — Steven Levy. Cultura hacker.
+- [ ] **0933.** *The Codebreakers* — David Kahn. História da criptografia.
+- [ ] **0934.** *The Code Book* — Simon Singh. Criptografia acessível.
+- [ ] **0935.** *Applied Cryptography* — Bruce Schneier. Criptografia prática.
+- [ ] **0936.** *The Age of Surveillance Capitalism* — Shoshana Zuboff. Dados e poder.
+- [ ] **0937.** *Weapons of Math Destruction* — Cathy O'Neil. Algoritmos e injustiça.
+- [ ] **0938.** *The Master Algorithm* — Pedro Domingos. Escolas de machine learning.
+- [ ] **0939.** *The Cathedral and the Bazaar* — Eric S. Raymond. Software livre.
+- [ ] **0940.** *Chip War* — Chris Miller. Geopolítica dos semicondutores.
+- [ ] **0941.** *The Shock of the Old* — David Edgerton. História da tecnologia em uso.
+- [ ] **0942.** *Technics and Civilization* — Lewis Mumford. Técnica e sociedade.
+- [ ] **0943.** *The Question Concerning Technology* — Martin Heidegger. Filosofia da técnica.
+- [ ] **0944.** *To Engineer Is Human* — Henry Petroski. Aprender com falhas de engenharia.
+- [ ] **0945.** *Normal Accidents* — Charles Perrow. Riscos em sistemas complexos.
+- [ ] **0946.** *The Idea Factory* — Jon Gertner. Bell Labs e inovação.
+
+## Fase 10 — Artes, música e arquitetura
+
+- [ ] **0947.** *The Story of Art* — E. H. Gombrich. História da arte essencial.
+- [ ] **0948.** *Art and Illusion* — E. H. Gombrich. Psicologia da representação.
+- [ ] **0949.** *Ways of Seeing* — John Berger. Como olhamos imagens.
+- [ ] **0950.** *Civilisation* — Kenneth Clark. Arte e civilização ocidental.
+- [ ] **0951.** *The Lives of the Artists* — Giorgio Vasari. Renascimento pelos contemporâneos.
+- [ ] **0952.** *Leonardo da Vinci* — Walter Isaacson. Curiosidade como método.
+- [ ] **0953.** *The Notebooks of Leonardo da Vinci* — Leonardo da Vinci. Mente universal em primeira mão.
+- [ ] **0954.** *Letters of Vincent van Gogh* — Vincent van Gogh. Arte e vocação.
+- [ ] **0955.** *Concerning the Spiritual in Art* — Wassily Kandinsky. Arte abstrata.
+- [ ] **0956.** *The Shock of the New* — Robert Hughes. Arte moderna.
+- [ ] **0957.** *Art as Experience* — John Dewey. Estética pragmatista.
+- [ ] **0958.** *Critique of Judgment* — Immanuel Kant. Juízo estético.
+- [ ] **0959.** *Laocoön* — Gotthold Ephraim Lessing. Limites entre artes.
+- [ ] **0960.** *The Work of Art in the Age of Mechanical Reproduction* — Walter Benjamin. Arte e técnica.
+- [ ] **0961.** *What Is Art?* — Liev Tolstói. Arte como comunicação moral.
+- [ ] **0962.** *Interaction of Color* — Josef Albers. Percepção das cores.
+- [ ] **0963.** *Understanding Comics* — Scott McCloud. Linguagem visual sequencial.
+- [ ] **0964.** *Ten Books on Architecture* — Vitrúvio. Tratado arquitetônico mais antigo.
+- [ ] **0965.** *Towards a New Architecture* — Le Corbusier. Manifesto modernista.
+- [ ] **0966.** *A Pattern Language* — Christopher Alexander et al.. Padrões de espaços humanos.
+- [ ] **0967.** *The Architecture of Happiness* — Alain de Botton. Arquitetura e bem-estar.
+- [ ] **0968.** *A History of Western Music* — J. Peter Burkholder, Donald Grout & Claude Palisca. História da música.
+- [ ] **0969.** *What to Listen for in Music* — Aaron Copland. Escuta ativa.
+- [ ] **0970.** *The Rest Is Noise* — Alex Ross. Música do século XX.
+- [ ] **0971.** *This Is Your Brain on Music* — Daniel J. Levitin. Neurociência da música.
+- [ ] **0972.** *Musicophilia* — Oliver Sacks. Música e cérebro.
+- [ ] **0973.** *The Birth of Tragedy* — Friedrich Nietzsche. Apolíneo e dionisíaco.
+- [ ] **0974.** *Music, Language, and the Brain* — Aniruddh D. Patel. Cognição musical científica.
+- [ ] **0975.** *Bach: Music in the Castle of Heaven* — John Eliot Gardiner. Bach e seu contexto.
+- [ ] **0976.** *Beethoven: Anguish and Triumph* — Jan Swafford. Beethoven.
+- [ ] **0977.** *The Classical Style* — Charles Rosen. Haydn, Mozart e Beethoven.
+- [ ] **0978.** *Sculpting in Time* — Andrei Tarkovsky. Cinema como arte.
+- [ ] **0979.** *Film Art: An Introduction* — David Bordwell & Kristin Thompson. Linguagem cinematográfica.
+- [ ] **0980.** *Hitchcock/Truffaut* — François Truffaut. Ofício do cinema.
+- [ ] **0981.** *On Photography* — Susan Sontag. Fotografia e realidade.
+- [ ] **0982.** *Camera Lucida* — Roland Barthes. Fotografia e memória.
+- [ ] **0983.** *Against Interpretation* — Susan Sontag. Crítica cultural.
+- [ ] **0984.** *The Poetics of Space* — Gaston Bachelard. Imaginação e espaço.
+- [ ] **0985.** *The Craft of Poetry: A Poetry Handbook* — Mary Oliver. Como a poesia funciona.
+- [ ] **0986.** *How Fiction Works* — James Wood. Técnica narrativa.
+
+## Fase 11 — Síntese e sabedoria final
+
+- [ ] **0987.** *The Ascent of Man* — Jacob Bronowski. Ciência como aventura humana.
+- [ ] **0988.** *The Two Cultures* — C. P. Snow. Ponte entre ciências e humanidades.
+- [ ] **0989.** *The Beginning of Infinity* — David Deutsch. Explicações e progresso ilimitado.
+- [ ] **0990.** *The Fabric of Reality* — David Deutsch. Quatro fios da realidade.
+- [ ] **0991.** *Big History: Maps of Time* — David Christian. Do Big Bang ao presente.
+- [ ] **0992.** *Origin Story* — David Christian. Big History acessível.
+- [ ] **0993.** *The Web of Life* — Fritjof Capra. Sistemas vivos (ler criticamente).
+- [ ] **0994.** *Complexity: A Guided Tour* — Melanie Mitchell. Sistemas complexos.
+- [ ] **0995.** *Scale* — Geoffrey West. Leis de escala na natureza e cidades.
+- [ ] **0996.** *The Knowledge Illusion* — Steven Sloman & Philip Fernbach. Limites do conhecimento individual.
+- [ ] **0997.** *Intellectual Virtues* — Robert C. Roberts & W. Jay Wood. Virtudes do intelecto.
+- [ ] **0998.** *Rationality* — Steven Pinker. Síntese do pensamento racional.
+- [ ] **0999.** *The Great Conversation* — Robert M. Hutchins. Por que ler os grandes livros.
+- [ ] **1000.** *The Great Ideas: A Lexicon of Western Thought* — Mortimer J. Adler. Os grandes temas do pensamento.
+
